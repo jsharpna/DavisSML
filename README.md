@@ -7,7 +7,15 @@ Machine learning is how to get computers to automatically learn and improve with
 
 <h2>Instructions</h2>
 
-1. The lectures and 
+1. Class time will be for lectures and labs.  These will be posted in advance in their sections.  Labs are not graded, and you will have an opportunity to go over your results in class.
+1. Homework will be due every week or so, starting with the second week. (50% of grade)
+1. Discussions and questions should be posted on the slack site.
+1. A final project will be due at the end of the class.  (50% of grade)
+1. You will need to install Python and the necessary packages to participate in this class.  See the following instructions for the installation.
+
+<h2>Textbooks</h2>
+* Required: <a href="http://www-bcf.usc.edu/~gareth/ISL/">A Introduction to Statistical Learning</a> by James, Witten, Hastie, and Tibshirani
+* Recommended: <a href="http://www.springer.com/us/book/9783319307152">Python for Probability, Statistics, and Machine Learning</a> by Unpingco
 
 <h2>Syllabus</h2>
 <h4>Part 1 : Supervised learning and general concepts</h4>
