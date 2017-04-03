@@ -1,7 +1,9 @@
 DavisSML
 ==============================
 
-A Course on the Principles of Statistical Machine Learning with Examples in PYthon[D[D[D[y
+A Course on the Principles of Statistical Machine Learning with Examples in Python
+
+Machine learning is how to get computers to automatically learn and improve with experience. Experience comes in the form of data, improvement is with respect to some performance metric, and learning is done by a learning algorithm. There are always computational constraints, such as the architecture, computation time, bandwidth limitations, and so on. So we can more precisely restate the goal thus: to construct learning algorithms that use data to improve with respect to a performance metric and do so under computational constraints.
 
 Project Organization
 ------------
