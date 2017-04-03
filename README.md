@@ -85,7 +85,7 @@ Principles: multi-layer architectures, non-convex optimization
 
 <h4>Separating hyperplanes and stochastic gradient</h4>
 
-Principles: batch vs. online algorithms, 
+Principles: batch vs. online algorithms
 <table>
 <tr><td width="50px">6/6</td><td width="100px">Lecture 19</td><td width="650px">Separating hyperplanes and support vector machines</td></tr>
 <tr><td width="50px">6/8</td><td width="100px">Lecture 20</td><td width="650px">Stochastic gradient and online learning</td></tr>
