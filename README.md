@@ -12,9 +12,9 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 1. Class time will be for lectures and labs.  These will be posted in advance in their sections.  Labs are not graded, and you will have an opportunity to go over your results in class.
 1. Homework will be due every week or so, starting with the second week. (50% of grade)
-1. Discussions and questions should be posted on the slack site.
-1. A final project will be due at the end of the class.  (50% of grade)
-1. You will need to install Python and the necessary packages to participate in this class.  See the following instructions for the installation.
+1. Discussions and questions should be posted on the [slack site](https://ucdsta208.slack.com).
+1. A final project will be due at the end of the class.  [Instructions can be found here.](misc/final_proj.md)  (50% of grade)
+1. You will need to install Python and the necessary packages to participate in this class.  See [the following instructions](lectures/lecture1/lecture1.md) for the installation.
 
 <h2>Textbooks</h2>
 
