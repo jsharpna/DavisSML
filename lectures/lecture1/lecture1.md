@@ -11,8 +11,13 @@ Do the following things to get your python editor, jupyter notebook, python, and
 
 ## Lecture 1: Intro to ML
 
+Look at the [lecture 1 slides](lecture1slides.pdf).  Outline...
+
 1. What is machine learning?
 1. Different machine learning tasks
 1. A tail of two researchers: why machine learning is not just the search for the best method
-1. A look back at linear regression - shifting perspectives - from statistical model to learning machine
+1. A look back at linear regression
 
+## Notebook for linear regression and training error
+
+See the [lecture 1 jupyter notebook file](lecture1.ipynb)
