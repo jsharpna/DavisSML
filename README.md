@@ -16,6 +16,12 @@ We will focus on principles of statistical machine learning in the prediction pr
 1. A final project will be due at the end of the class.  [Instructions can be found here.](misc/final_proj.md)  (50% of grade)
 1. You will need to install Python and the necessary packages to participate in this class.  See [the following instructions](lectures/lecture1/lecture1.md) for the installation.
 
+<h2>Office Hours</h2>
+
+- James: Wednesdays 9am-12pm in MSB 4107
+- Chunzhe: 
+- Huang: 
+
 <h2>Textbooks</h2>
 
 - Required: <a href="https://statweb.stanford.edu/~tibs/ElemStatLearn/">Elements of Statistical Learning</a> by Hastie, Tibshirani, and Friedman
