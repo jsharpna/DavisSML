@@ -27,7 +27,7 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 Principles: Over/under-fitting, training and testing, losses
 <table>
-<tr><td width="50px">4/4</td><td width="100px">Lecture 1</td><td width="650px">Introduction to machine learning and Python I</td></tr>
+<tr><td width="50px">4/4</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
 <tr><td width="50px">4/6</td><td width="100px">Lecture 2</td><td width="650px">Introduction to machine learning and Python II</td></tr>
 </table>
 
