@@ -1,5 +1,7 @@
 # Intro to ML
 
+## Reading (also for lecture 2): ESL Chapter 2
+
 ## Installs
 
 Do the following things to get your python editor, jupyter notebook, python, and packages.

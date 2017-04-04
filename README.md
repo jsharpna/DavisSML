@@ -12,9 +12,9 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 1. Class time will be for lectures and labs.  These will be posted in advance in their sections.  Labs are not graded, and you will have an opportunity to go over your results in class.
 1. Homework will be due every week or so, starting with the second week. (50% of grade)
-1. Discussions and questions should be posted on the slack site.
-1. A final project will be due at the end of the class.  (50% of grade)
-1. You will need to install Python and the necessary packages to participate in this class.  See the following instructions for the installation.
+1. Discussions and questions should be posted on the [slack site](https://ucdsta208.slack.com).
+1. A final project will be due at the end of the class.  [Instructions can be found here.](misc/final_proj.md)  (50% of grade)
+1. You will need to install Python and the necessary packages to participate in this class.  See [the following instructions](lectures/lecture1/lecture1.md) for the installation.
 
 <h2>Textbooks</h2>
 
@@ -27,7 +27,7 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 Principles: Over/under-fitting, training and testing, losses
 <table>
-<tr><td width="50px">4/4</td><td width="100px">Lecture 1</td><td width="650px">Introduction to machine learning and Python I</td></tr>
+<tr><td width="50px">4/4</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
 <tr><td width="50px">4/6</td><td width="100px">Lecture 2</td><td width="650px">Introduction to machine learning and Python II</td></tr>
 </table>
 
