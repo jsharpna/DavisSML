@@ -4,21 +4,19 @@
 
 ## Installs
 
-Do the following things to get your python editor, jupyter notebook, python, and packages.
 
-1. Install conda on your machine, go to [the Continuum website](https://www.continuum.io/downloads) and get anaconda 2.  This will install python 2.7 on your machine.  We recommend 2.7 instead of 3.X because it is guaranteed to have all of the packages available.  I know that in other classes you may have used 3.X, but in this course, package compatibility is more important than migrating to the latest version of Python.
-2. In a shell (such as terminal or cygwin) you can type `conda list` and see what packages you have available.
-3. When you do not have a package that you need you should install it with `conda install packagename` in the terminal.  Right away you should make sure you have `jupyter`, `numpy`, `scipy`, and `scikit-learn`.
-4. You will also need a text editor, preferably with an IDE (integrated development environment).  You can use `spyder` which you can also install with conda.  Here is the [documentation](https://pythonhosted.org/spyder/).
+You are going to need to use git, so you should take this time to:
+1. install git: you can either install it for the command line (google that) or install the github desktop app:https://desktop.github.com/
+2. clone this repo: `git clone https://github.com/jsharpna/DavisSML.git`
+3. navigate to the DavisSML/lectures/lecture2 folder (use `cd`) and run `jupyter notebook` 
+4. open the lecture2.ipynb file in jupyter
+5. in your free time you should learn about git: https://jsharpna.github.io/141B/git_instructions.html
 
-## Lecture 1: Intro to ML
+## Lecture 2: Intro to ML
 
-Look at the [lecture 1 slides](lecture1slides.pdf).  Outline...
+Look at the [lecture 2 slides](lecture2slides.pdf) (to be added).  Outline...
 
-1. What is machine learning?
-1. Different machine learning tasks
-1. A tail of two researchers: why machine learning is not just the search for the best method
-1. A look back at linear regression
+1. 
 
 ## Notebook for linear regression and training error
 
