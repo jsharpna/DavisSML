@@ -31,7 +31,8 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 <h4>Introduction to Machine Learning</h4>
 
-Principles: Over/under-fitting, training and testing, losses
+Principles: Over/under-fitting, training and testing, losses<br>
+Reading: ESL Chapter 2
 <table>
 <tr><td width="50px">4/4</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
 <tr><td width="50px">4/6</td><td width="100px">Lecture 2</td><td width="650px">Introduction to machine learning and Python II</td></tr>
@@ -39,7 +40,8 @@ Principles: Over/under-fitting, training and testing, losses
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
 
-Principles: Convex relaxation, computational intractability in subset selection
+Principles: Convex relaxation, computational intractability in subset selection<br>
+Reading: ESL Chapter 3
 <table>
 <tr><td width="50px">4/11</td><td width="100px">Lecture 3</td><td width="650px">Subset selection and ridge regression</td></tr>
 <tr><td width="50px">4/13</td><td width="100px">Lecture 4</td><td width="650px">Convex optimization</td></tr>
@@ -48,7 +50,8 @@ Principles: Convex relaxation, computational intractability in subset selection
 
 <h4>Classification</h4>
 
-Principles: Surrogate losses, generative and discriminative methods
+Principles: Surrogate losses, generative and discriminative methods<br>
+Reading: ESL Chapter 4
 <table>
 <tr><td width="50px">4/20</td><td width="100px">Lecture 6</td><td width="650px">Score functions, confusion matrix, ROC, PR</td></tr>
 <tr><td width="50px">4/25</td><td width="100px">Lecture 7</td><td width="650px">Logistic regression</td></tr>
@@ -57,7 +60,8 @@ Principles: Surrogate losses, generative and discriminative methods
 
 <h4>Basis Expansion and Kernels</h4>
 
-Principles: Feature extraction, the kernel trick, analysis/sythesis duality
+Principles: Feature extraction, the kernel trick, analysis/sythesis duality<br>
+Reading: ESL Chapter 5
 <table>
 <tr><td width="50px">5/2</td><td width="100px">Lecture 9</td><td width="650px">Basis expansion and hi-di embeddings</td></tr>
 <tr><td width="50px">5/4</td><td width="100px">Lecture 10</td><td width="650px">Smoothing splines and kernels</td></tr>
@@ -66,7 +70,8 @@ Principles: Feature extraction, the kernel trick, analysis/sythesis duality
 
 <h4>Model Assessment and Resampling</h4>
 
-Principles: Sampling variability, statistical complexity 
+Principles: Sampling variability, statistical complexity<br>
+Reading: ESL Chapter 7
 <table>
 <tr><td width="50px">5/11</td><td width="100px">Lecture 12</td><td width="650px">Degrees of freedom, MDL, Information Criteria</td></tr>
 <tr><td width="50px">5/16</td><td width="100px">Lecture 13</td><td width="650px">Bootstrap and cross validation</td></tr>
@@ -74,18 +79,19 @@ Principles: Sampling variability, statistical complexity
 
 <h4>Trees, Boosting, and Forests</h4>
 
-Principles: Interpretable models, learning from experts
+Principles: Interpretable models, learning from experts<br>
+Reading: ESL Chapter 8
 <table>
 <tr><td width="50px">5/18</td><td width="105px">Lecture 14</td><td width="100%">Trees and generalized additive models</td></tr>
-<tr><td width="50px">5/23</td><td width="105px">Lecture 15</td><td>Boosting and ensembles</td></tr>
-<tr><td width="50px">5/25</td><td width="105px">Lecture 16</td><td>Random Forests</td></tr>
+<tr><td width="50px">5/23</td><td width="105px">Lecture 15</td><td>Boosting and Random Forests</td></tr>
+<tr><td width="50px">5/25</td><td width="105px">Lecture 16</td><td>???</td></tr>
 </table>
 
 <h4>Neural Networks and Deep Learning</h4>
 
 Principles: multi-layer architectures, non-convex optimization
 <table>
-<tr><td width="50px">5/30</td><td width="100px">Lecture 17</td><td width="650px">Neural Networks and Backpropogation</td></tr>
+<tr><td width="50px">5/25</td><td width="100px">Lecture 17</td><td width="650px">Neural Networks and Backpropogation</td></tr>
 <tr><td width="50px">5/1</td><td width="100px">Lecture 18</td><td width="650px">Deep Learning</td></tr>
 </table>
 
