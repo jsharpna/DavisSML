@@ -1,9 +1,9 @@
-# Intro to ML
+# Lecture 2: Intro to ML II
 
 ## Reading (also for lecture 2): ESL Chapter 2
+## bring your laptop to class if you want to work on the lab
 
-## Installs
-
+## Git
 
 You are going to need to use git, so you should take this time to:
 1. install git: you can either install it for the command line (google that) or install the github desktop app:https://desktop.github.com/
@@ -16,8 +16,11 @@ You are going to need to use git, so you should take this time to:
 
 Look at the [lecture 2 slides](lecture2slides.pdf) (to be added).  Outline...
 
+1. restrictiveness of linear regression
+1. nearest neighbors methods
+1. bias-variance tradeoff
 1. 
 
-## Notebook for linear regression and training error
+## Notebook for linear regression and nearest neighbors
 
-See the [lecture 1 jupyter notebook file](lecture1.ipynb)
+See the [lecture 2 jupyter notebook file](lecture2.ipynb)
