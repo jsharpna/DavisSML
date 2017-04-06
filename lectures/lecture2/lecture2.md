@@ -1,7 +1,7 @@
 # Lecture 2: Intro to ML II
 
 ## Reading (also for lecture 2): ESL Chapter 2
-## bring your laptop to class if you want to work on the lab
+### bring your laptop to class if you want to work on the lab (not required, but probably helpful)
 
 ## Git
 
@@ -16,11 +16,11 @@ You are going to need to use git, so you should take this time to:
 
 Look at the [lecture 2 slides](lecture2slides.pdf) (to be added).  Outline...
 
+1. a change of perspective
 1. restrictiveness of linear regression
 1. nearest neighbors methods
 1. bias-variance tradeoff
-1. 
 
 ## Notebook for linear regression and nearest neighbors
 
-See the [lecture 2 jupyter notebook file](lecture2.ipynb)
+See the [Lab 1 jupyter notebook file](../../labs/lab1.ipynb)
