@@ -1,6 +1,6 @@
 # Lecture 2: Intro to ML II
 
-## Reading (also for lecture 2): ESL Chapter 2
+## Reading: ESL Chapter 2
 ### bring your laptop to class if you want to work on the lab (not required, but probably helpful)
 
 ## Git
