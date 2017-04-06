@@ -19,8 +19,8 @@ We will focus on principles of statistical machine learning in the prediction pr
 <h2>Office Hours</h2>
 
 - James: Wednesdays 9am-12pm in MSB 4107
-- Chunzhe: 
-- Huang: 
+- Chunzhe: Monday 1-3pm in MSB 1117
+- Huang: Friday 1-3pm in MSB 1117
 
 <h2>Textbooks</h2>
 
@@ -35,7 +35,7 @@ Principles: Over/under-fitting, training and testing, losses<br>
 Reading: ESL Chapter 2
 <table>
 <tr><td width="50px">4/4</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
-<tr><td width="50px">4/6</td><td width="100px">Lecture 2</td><td width="650px">Introduction to machine learning and Python II</td></tr>
+<tr><td width="50px">4/6</td><td width="100px"><a href="lectures/lecture2/lecture2.md">Lecture 2</a></td><td width="650px">Introduction to machine learning and Python II</td></tr>
 </table>
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
