@@ -14,7 +14,7 @@ You are going to need to use git, so you should take this time to:
 
 ## Lecture 2: Intro to ML
 
-Look at the [lecture 2 slides](lecture2slides.pdf) (to be added).  Outline...
+Look at the [lecture 2 slides](lecture2slides.pdf).  Outline...
 
 1. a change of perspective
 1. restrictiveness of linear regression
