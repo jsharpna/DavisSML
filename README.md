@@ -26,6 +26,7 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 - Required: <a href="https://statweb.stanford.edu/~tibs/ElemStatLearn/">Elements of Statistical Learning</a> by Hastie, Tibshirani, and Friedman
 - Recommended: <a href="http://www.springer.com/us/book/9783319307152">Python for Probability, Statistics, and Machine Learning</a> by Unpingco
+- Recommended: <a href="http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf">Convex Optimization by Boyd and Vandenberghe</a>
 
 <h2>Syllabus</h2>
 
@@ -35,16 +36,16 @@ Principles: Over/under-fitting, training and testing, losses<br>
 Reading: ESL Chapter 2
 <table>
 <tr><td width="50px">4/4</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
-<tr><td width="50px">4/6</td><td width="100px"><a href="lectures/lecture2/lecture2.md">Lecture 2</a></td><td width="650px">Introduction to machine learning and Python II</td></tr>
+<tr><td width="50px">4/6</td><td width="100px"><a href="lectures/lecture2/lecture2.md">Lecture 2</a></td><td width="650px">Introduction to machine learning and Python II, <a href="labs/lab1.ipynb">Lab 1</a></td></tr>
 </table>
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
 
 Principles: Convex relaxation, computational intractability in subset selection<br>
-Reading: ESL Chapter 3
+Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 <table>
-<tr><td width="50px">4/11</td><td width="100px">Lecture 3</td><td width="650px">Subset selection and ridge regression</td></tr>
-<tr><td width="50px">4/13</td><td width="100px">Lecture 4</td><td width="650px">Convex optimization</td></tr>
+<tr><td width="50px">4/11</td><td width="100px"><a href="lectures/lecture3/lecture3.md">Lecture 3</a></td><td width="650px">Subset selection and ridge regression</td></tr>
+<tr><td width="50px">4/13</td><td width="100px">Lecture 4</td><td width="650px">Convex optimization, <a href="labs/lab2.ipynb">Lab 2</a></td></tr>
 <tr><td width="50px">4/18</td><td width="100px">Lecture 5</td><td width="650px">The Lasso</td></tr>
 </table>
 
