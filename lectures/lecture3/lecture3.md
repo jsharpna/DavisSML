@@ -11,4 +11,4 @@ The main ideas are
 1. Matrix decomposition can be used to solve linear regression and understand the effect of regularization
 
 ## Slides: [Lecture 3 slides](lecture3slides.pdf)
-## You can do the lab: [lab 2](../../lab/lab2.ipynb)
+## You can do the lab: [lab 2](../../labs/lab2.ipynb)
