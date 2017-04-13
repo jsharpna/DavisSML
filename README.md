@@ -45,7 +45,7 @@ Principles: Convex relaxation, computational intractability in subset selection<
 Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 <table>
 <tr><td width="50px">4/11</td><td width="100px"><a href="lectures/lecture3/lecture3.md">Lecture 3</a></td><td width="650px">Subset selection and ridge regression</td></tr>
-<tr><td width="50px">4/13</td><td width="100px"><a href="lectures/lecture3/lecture4.md">Lecture 4</a></td><td width="650px">Convex optimization, <a href="labs/lab2.ipynb">Lab 2</a>, <a href="labs/lab2-soln.ipynb">Solutions</a></td></tr>
+<tr><td width="50px">4/13</td><td width="100px"><a href="lectures/lecture3/lecture4slides.pdf">Lecture 4</a></td><td width="650px">Convex optimization, <a href="labs/lab2.ipynb">Lab 2</a>, <a href="labs/lab2-soln.ipynb">Solutions</a></td></tr>
 <tr><td width="50px">4/18</td><td width="100px">Lecture 5</td><td width="650px">The Lasso</td></tr>
 </table>
 
