@@ -5,7 +5,7 @@
 ## Lecture and Lab
 
 1. The lecture slides can be found here: [lecture5slides.pdf](lecture5slides.pdf)
-1. The lab for this week is TBA
+1. The lab for this week is [lab3.ipynb](../../labs/lab3.ipynb)
 
 ### Notes on installing glmnet (I was not successful on Windows, so will be using sklearn instead)
 - In order to install glmnet you will probably need a gfortran compiler.  You should first try installing glmnet with pip: `pip install glmnet`
