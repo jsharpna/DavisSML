@@ -54,8 +54,8 @@ Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cv
 Principles: Surrogate losses, generative and discriminative methods<br>
 Reading: ESL Chapter 4
 <table>
-<tr><td width="50px">4/20</td><td width="100px">Lecture 6</td><td width="650px">Score functions, confusion matrix, ROC, PR</td></tr>
-<tr><td width="50px">4/25</td><td width="100px">Lecture 7</td><td width="650px">Logistic regression</td></tr>
+<tr><td width="50px">4/20</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 6</a></td><td width="650px">Logistic regression</td></tr>
+<tr><td width="50px">4/25</td><td width="100px">Lecture 7</td><td width="650px">Classification and margin methods</td></tr>
 <tr><td width="50px">4/27</td><td width="100px">Lecture 8</td><td width="650px">Generative methods for classification</td></tr>
 </table>
 
