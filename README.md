@@ -59,49 +59,41 @@ Reading: ESL Chapter 4
 <tr><td width="50px">4/27</td><td width="100px">Lecture 8</td><td width="650px">Max-margin Methods</td></tr>
 </table>
 
+<h4>Unsupervised Learning</h4>
+
+Principles: Compression, Dimension Reduction
+Reading: ESL Chapter 14
+<table>
+<tr><td width="50px">5/2</td><td width="100px">Lecture 9</td><td width="650px">Clustering</td></tr>
+<tr><td width="50px">5/4</td><td width="100px">Lecture 10</td><td width="650px">Dimension Reduction</td></tr>
+</table>
+
 <h4>Basis Expansion and Kernels</h4>
 
 Principles: Feature extraction, the kernel trick, analysis/sythesis duality<br>
 Reading: ESL Chapter 5
 <table>
-<tr><td width="50px">5/2</td><td width="100px">Lecture 9</td><td width="650px">Basis expansion and hi-di embeddings</td></tr>
-<tr><td width="50px">5/4</td><td width="100px">Lecture 10</td><td width="650px">Smoothing splines and kernels</td></tr>
-<tr><td width="50px">5/9</td><td width="100px">Lecture 11</td><td width="650px">The kernel trick</td></tr>
+<tr><td width="50px">5/9</td><td width="100px">Lecture 11</td><td width="650px">Basis expansion and hi-di embeddings</td></tr>
+<tr><td width="50px">5/11</td><td width="100px">Lecture 12</td><td width="650px">Smoothing splines and kernels</td></tr>
 </table>
 
-<h4>Model Assessment and Resampling</h4>
+<h4>Resampling, Trees, and Aggregation</h4>
 
-Principles: Sampling variability, statistical complexity<br>
-Reading: ESL Chapter 7
+Principles: Interpretable models, statistical complexity, learning from experts<br>
+Reading: ESL Chapters 7, 8
 <table>
-<tr><td width="50px">5/11</td><td width="100px">Lecture 12</td><td width="650px">Degrees of freedom, MDL, Information Criteria</td></tr>
-<tr><td width="50px">5/16</td><td width="100px">Lecture 13</td><td width="650px">Bootstrap and cross validation</td></tr>
+<tr><td width="50px">5/13</td><td width="105px">Lecture 13</td><td width="650px">Bootstrap and cross validation</td></tr>
+<tr><td width="50px">5/16</td><td width="105px">Lecture 14</td><td width="650px">Trees, generalized additive models</td></tr>
+<tr><td width="50px">5/18</td><td width="105px">Lecture 15</td><td width="650px">Boosting and Random Forests</td></tr>
 </table>
 
-<h4>Trees, Boosting, and Forests</h4>
+<h4>Online Learning, Neural Networks, and Deep Learning</h4>
 
-Principles: Interpretable models, learning from experts<br>
-Reading: ESL Chapter 8
+Principles: multi-layer architectures, non-convex optimization, online algorithms
 <table>
-<tr><td width="50px">5/18</td><td width="105px">Lecture 14</td><td width="100%">Trees and generalized additive models</td></tr>
-<tr><td width="50px">5/23</td><td width="105px">Lecture 15</td><td>Boosting and Random Forests</td></tr>
-<tr><td width="50px">5/25</td><td width="105px">Lecture 16</td><td>???</td></tr>
-</table>
-
-<h4>Neural Networks and Deep Learning</h4>
-
-Principles: multi-layer architectures, non-convex optimization
-<table>
+<tr><td width="50px">5/23</td><td width="100px">Lecture 16</td><td width="650px">Stochastic gradient and online learning</td></tr>
 <tr><td width="50px">5/25</td><td width="100px">Lecture 17</td><td width="650px">Neural Networks and Backpropogation</td></tr>
-<tr><td width="50px">5/1</td><td width="100px">Lecture 18</td><td width="650px">Deep Learning</td></tr>
-</table>
-
-<h4>Separating hyperplanes and stochastic gradient</h4>
-
-Principles: batch vs. online algorithms
-<table>
-<tr><td width="50px">6/6</td><td width="100px">Lecture 19</td><td width="650px">Separating hyperplanes and support vector machines</td></tr>
-<tr><td width="50px">6/8</td><td width="100px">Lecture 20</td><td width="650px">Stochastic gradient and online learning</td></tr>
+<tr><td width="50px">5/30</td><td width="100px">Lecture 18</td><td width="650px">Deep Learning</td></tr>
 </table>
 
 Repository Organization
