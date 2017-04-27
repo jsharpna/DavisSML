@@ -56,7 +56,7 @@ Reading: ESL Chapter 4
 <table>
 <tr><td width="50px">4/20</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 6</a></td><td width="650px">Logistic regression</td></tr>
 <tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods, <a href="labs/lab4.ipynb">Lab 4</a></td></tr>
-<tr><td width="50px">4/27</td><td width="100px">Lecture 8</td><td width="650px">Max-margin Methods</td></tr>
+<tr><td width="50px">4/27</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods</td></tr>
 </table>
 
 <h4>Unsupervised Learning</h4>
