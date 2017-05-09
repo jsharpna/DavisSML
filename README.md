@@ -64,8 +64,8 @@ Reading: ESL Chapter 4
 Principles: Compression, Dimension Reduction
 Reading: ESL Chapter 14
 <table>
-<tr><td width="50px">5/2</td><td width="100px">Lecture 9</td><td width="650px">Clustering</td></tr>
-<tr><td width="50px">5/4</td><td width="100px">Lecture 10</td><td width="650px">Dimension Reduction</td></tr>
+<tr><td width="50px">5/2</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 9</a></td><td width="650px"><a href="lectures/lecture9-10/lecture9notes.pdf">Clustering (notes)</a></td></tr>
+<tr><td width="50px">5/4</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 10</a></td><td width="650px"><a href="lectures/lecture9-10/lecture10notes.pdf">Dimension Reduction (notes)</a></td></tr>
 </table>
 
 <h4>Basis Expansion and Kernels</h4>
@@ -73,7 +73,7 @@ Reading: ESL Chapter 14
 Principles: Feature extraction, the kernel trick, analysis/sythesis duality<br>
 Reading: ESL Chapter 5
 <table>
-<tr><td width="50px">5/9</td><td width="100px">Lecture 11</td><td width="650px">Basis expansion and hi-di embeddings</td></tr>
+<tr><td width="50px">5/9</td><td width="100px">Lecture 11</td><td width="650px"><a href="lectures/lecture11-12/lecture11notes.pdf">Basis expansion and hi-di embeddings</a></td></tr>
 <tr><td width="50px">5/11</td><td width="100px">Lecture 12</td><td width="650px">Smoothing splines and kernels</td></tr>
 </table>
 
