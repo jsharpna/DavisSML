@@ -1,8 +1,8 @@
-# Lecture 9, 10: Unsupervised learning
+# Lecture 11, 12: Basis Expansion and Kernels
 
-## Reading: ESL Section 14.3, 14.5
+## Reading: ESL Section 5.1-5.2, 5.7-5.9
 
 ## Lectures:
 
-1. Lecture 9 is on Clustering: there are some [draft notes](lecture9.pdf) that I will partially transcribe, and also some [slides](lecture9slides.pdf).
-1. Lecture 10 is on Dimension Reduction: there are some [draft notes](lecture10.pdf) that I will partially transcribe, and also some [slides](lecture10slides.pdf)
+1. Lecture 11 is on Basis Expansion: there are some [notes](lecture11notes.pdf)
+1. Lecture 12 is on Kernels
