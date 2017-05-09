@@ -7,6 +7,8 @@ Assistant Professor<br>
 UC Davis, Statistics Department<br>
 5/5/2017<br>
 
+## You can see the [whole lesson on nbviewer](http://nbviewer.jupyter.org/github/jsharpna/DavisSML/blob/master/lectures/classify/Classify1.ipynb?flush_cache=true)
+
 __Talk Outline__
 1. Introduction with link prediction in social networks
 1. Evaluating a score with ROC and PR curves
