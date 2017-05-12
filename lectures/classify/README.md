@@ -19,3 +19,8 @@ __Talk Outline__
 ## Follow along with the Notebook file: [Classify1.ipynb](Classify1.ipynb)
 
 ## Here are notes that I will be using: [classifynotes.pdf](classifynotes.pdf)
+
+## Lesson 2: Overfitting, Kernel Trick
+
+## You can see the [whole lesson on nbviewer](http://nbviewer.jupyter.org/github/jsharpna/DavisSML/blob/master/lectures/classify/Classify2.ipynb?flush_cache=true)
+
