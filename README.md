@@ -82,18 +82,18 @@ Reading: ESL Chapter 5
 Principles: Interpretable models, statistical complexity, learning from experts<br>
 Reading: ESL Chapters 7, 8
 <table>
-<tr><td width="50px">5/13</td><td width="105px">Lecture 13</td><td width="650px">Bootstrap and cross validation</td></tr>
-<tr><td width="50px">5/16</td><td width="105px">Lecture 14</td><td width="650px">Trees, generalized additive models</td></tr>
-<tr><td width="50px">5/18</td><td width="105px">Lecture 15</td><td width="650px">Boosting and Random Forests</td></tr>
+<tr><td width="50px">5/16</td><td width="105px">Lecture 13</td><td width="650px">Bootstrap and cross validation</td></tr>
+<tr><td width="50px">5/18</td><td width="105px">Lecture 14</td><td width="650px">Trees, generalized additive models</td></tr>
+<tr><td width="50px">5/23</td><td width="105px">Lecture 15</td><td width="650px">Boosting and Random Forests</td></tr>
 </table>
 
 <h4>Online Learning, Neural Networks, and Deep Learning</h4>
 
 Principles: multi-layer architectures, non-convex optimization, online algorithms
 <table>
-<tr><td width="50px">5/23</td><td width="100px">Lecture 16</td><td width="650px">Stochastic gradient and online learning</td></tr>
-<tr><td width="50px">5/25</td><td width="100px">Lecture 17</td><td width="650px">Neural Networks and Backpropogation</td></tr>
-<tr><td width="50px">5/30</td><td width="100px">Lecture 18</td><td width="650px">Deep Learning</td></tr>
+<tr><td width="50px">5/25</td><td width="100px">Lecture 16</td><td width="650px">Stochastic gradient and online learning</td></tr>
+<tr><td width="50px">5/30</td><td width="100px">Lecture 17</td><td width="650px">Neural Networks and Backpropogation</td></tr>
+<tr><td width="50px">6/1</td><td width="100px">Lecture 18</td><td width="650px">Deep Learning</td></tr>
 </table>
 
 Repository Organization
