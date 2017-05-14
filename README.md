@@ -74,7 +74,7 @@ Principles: Feature extraction, the kernel trick, analysis/sythesis duality<br>
 Reading: ESL Chapter 5
 <table>
 <tr><td width="50px">5/9</td><td width="100px"><a href="lectures/lecture11-12/lecture11notes.pdf">Lecture 11</a></td><td width="650px"><a href="lectures/lecture11-12/lecture11notes.pdf">Basis expansion and hi-di embeddings</a></td></tr>
-<tr><td width="50px">5/11</td><td width="100px">Lecture 12</td><td width="650px">Smoothing splines and kernels</td></tr>
+<tr><td width="50px">5/11</td><td width="100px"><a href="lectures/lecture11-12/lecture12notes.pdf">Lecture 12</a></td><td width="650px">Kernels</td></tr>
 </table>
 
 <h4>Resampling, Trees, and Aggregation</h4>
