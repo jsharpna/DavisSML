@@ -28,6 +28,12 @@ We will focus on principles of statistical machine learning in the prediction pr
 - Recommended: <a href="http://www.springer.com/us/book/9783319307152">Python for Probability, Statistics, and Machine Learning</a> by Unpingco
 - Recommended: <a href="http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf">Convex Optimization by Boyd and Vandenberghe</a>
 
+<h2>Homeworks</h2>
+
+- Homework 1: <a href="homeworks/HW1.ipynb">assignment</a> and <a href="homeworks/HW1-soln.ipynb">solutions</a>
+- Homework 2: <a href="homeworks/HW2.ipynb">assignment</a> and <a href="homeworks/HW2-soln.ipynb">solutions</a>
+- Homework 3: <a href="homeworks/HW3.ipynb">assignment</a>
+
 <h2>Syllabus</h2>
 
 <h4>Introduction to Machine Learning</h4>
