@@ -96,6 +96,15 @@ Principles: multi-layer architectures, non-convex optimization, online algorithm
 <tr><td width="50px">6/1</td><td width="100px">Lecture 18</td><td width="650px">Deep Learning</td></tr>
 </table>
 
+<h4>Graphical Models</h4>
+
+Principles: Markov network, dynamical models
+<table>
+<tr><td width="50px">6/6</td><td width="100px">Lecture 19</td><td width="650px">Understanding dependence with graphical models</td></tr>
+<tr><td width="50px">6/8</td><td width="100px">Lecture 20</td><td width="650px">Hidden Markov models</td></tr>
+</table>
+
+
 Repository Organization
 ------------
 
