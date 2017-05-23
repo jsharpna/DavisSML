@@ -88,9 +88,9 @@ Reading: ESL Chapter 5
 Principles: Interpretable models, statistical complexity, learning from experts<br>
 Reading: ESL Chapters 7, 8
 <table>
-<tr><td width="50px">5/16</td><td width="105px">Lecture 13</td><td width="650px">Bootstrap and cross validation</td></tr>
-<tr><td width="50px">5/18</td><td width="105px">Lecture 14</td><td width="650px">Trees, generalized additive models</td></tr>
-<tr><td width="50px">5/23</td><td width="105px">Lecture 15</td><td width="650px">Boosting and Random Forests</td></tr>
+<tr><td width="50px">5/16</td><td width="105px"><a href="lectures/lecture13-14/lecture13notes.pdf">Lecture 13</a></td><td width="650px">Bootstrap and cross validation</td></tr>
+<tr><td width="50px">5/18</td><td width="105px"><a href="lectures/lecture13-14/lecture14notes.pdf">Lecture 14</a></td><td width="650px">Trees, generalized additive models</td></tr>
+<tr><td width="50px">5/23</td><td width="105px"><a href="lectures/lecture15-16/lecture15notes.pdf">Lecture 15</a></td><td width="650px">Boosting and Random Forests</td></tr>
 </table>
 
 <h4>Online Learning, Neural Networks, and Deep Learning</h4>
