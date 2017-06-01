@@ -97,9 +97,9 @@ Reading: ESL Chapters 7, 8
 
 Principles: multi-layer architectures, non-convex optimization, online algorithms
 <table>
-<tr><td width="50px">5/25</td><td width="100px">Lecture 16</td><td width="650px">Stochastic gradient and online learning</td></tr>
-<tr><td width="50px">5/30</td><td width="100px">Lecture 17</td><td width="650px">Neural Networks and Backpropogation</td></tr>
-<tr><td width="50px">6/1</td><td width="100px">Lecture 18</td><td width="650px">Deep Learning</td></tr>
+<tr><td width="50px">5/25</td><td width="100px"><a href="lectures/lecture15-16/lecture16notes.pdf">Lecture 16</a></td><td width="650px">Stochastic gradient and online learning</td></tr>
+<tr><td width="50px">5/30</td><td width="100px"><a href="lectures/lecture17-18/lecture17notes.pdf">Lecture 17</a></td><td width="650px">Neural Networks and Backpropogation</td></tr>
+<tr><td width="50px">6/1</td><td width="100px"><a href="lectures/lecture17-18/lecture18notes.pdf">Lecture 18</a></td><td width="650px">Theano with <a href="lectures/lecture17-18/">notebooks</a></td></tr>
 </table>
 
 <h4>Graphical Models</h4>
