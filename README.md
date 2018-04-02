@@ -12,15 +12,16 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 1. Class time will be for lectures and labs.  These will be posted in advance in their sections.  Labs are not graded, and you will have an opportunity to go over your results in class.
 1. Homework will be due every week or so, starting with the second week. (50% of grade)
-1. Discussions and questions should be posted on the [slack site](https://ucdsta208.slack.com).
+1. Discussions and questions should be posted on the [slack site](http://ucdavis.slack.com): find the channel `2018-sta208`
+1. During the quarter, I will try to check my email at the end of the day on weekdays: `prof.jsharpna@gmail.com` 
 1. A final project will be due at the end of the class.  [Instructions can be found here.](misc/final_proj.md)  (50% of grade)
-1. You will need to install Python and the necessary packages to participate in this class.  See [the following instructions](lectures/lecture1/lecture1.md) for the installation.
+1. You will need to install Python and the necessary packages to participate in this class.  See [the following instructions](misc/install.md) for installation notes.
 
 <h2>Office Hours</h2>
 
-- James: Wednesdays 9am-12pm in MSB 4107
-- Chunzhe: Monday 1-3pm in MSB 1117
-- Huang: Friday 1-3pm in MSB 1117
+- Prof. James: 10-11 Tue, 10-11 Thu, 3-4 Fri (MSB 4017)
+  Liwei Wu: TBD
+  Siteng Hao: TBD
 
 <h2>Textbooks</h2>
 
@@ -29,10 +30,6 @@ We will focus on principles of statistical machine learning in the prediction pr
 - Recommended: <a href="http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf">Convex Optimization by Boyd and Vandenberghe</a>
 
 <h2>Homeworks</h2>
-
-- Homework 1: <a href="homeworks/HW1.ipynb">assignment</a> and <a href="homeworks/HW1-soln.ipynb">solutions</a>
-- Homework 2: <a href="homeworks/HW2.ipynb">assignment</a> and <a href="homeworks/HW2-soln.ipynb">solutions</a>
-- Homework 3: <a href="homeworks/HW3.ipynb">assignment</a>
 
 <h2>Syllabus</h2>
 
