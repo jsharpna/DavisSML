@@ -11,6 +11,7 @@ After you download conda then open a terminal (if you are on windows search for 
 - scipy
 - scikit-learn
 - pandas
+
 And you can install one of these with `conda install numpy`. 
 (Alternatively you can use `apt-get install ...` in ubuntu or your favorite package manager in linux.)
 
