@@ -38,8 +38,8 @@ We will focus on principles of statistical machine learning in the prediction pr
 Principles: Over/under-fitting, training and testing, losses<br>
 Reading: ESL Chapter 2
 <table>
-<tr><td width="50px">4/4</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
-<tr><td width="50px">4/6</td><td width="100px"><a href="lectures/lecture2/lecture2.md">Lecture 2</a></td><td width="650px">Introduction to machine learning and Python II, <a href="labs/lab1.ipynb">Lab 1</a></td></tr>
+<tr><td width="50px">4/2</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
+<tr><td width="50px">4/4</td><td width="100px"><a href="lectures/lecture2/lecture2.md">Lecture 2</a></td><td width="650px">Introduction to machine learning and Python II, <a href="labs/lab1.ipynb">Lab 1</a></td></tr>
 </table>
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
@@ -47,9 +47,9 @@ Reading: ESL Chapter 2
 Principles: Convex relaxation, computational intractability in subset selection<br>
 Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 <table>
-<tr><td width="50px">4/11</td><td width="100px"><a href="lectures/lecture3/lecture3.md">Lecture 3</a></td><td width="650px">Subset selection and ridge regression</td></tr>
-<tr><td width="50px">4/13</td><td width="100px"><a href="lectures/lecture4/lecture4slides.pdf">Lecture 4</a></td><td width="650px">Convex optimization, <a href="labs/lab2.ipynb">Lab 2</a>, <a href="labs/lab2-soln.ipynb">Solutions</a></td></tr>
-<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture5/lecture5.md">Lecture 5</a></td><td width="650px">The Lasso, <a href="labs/lab3.ipynb">Lab 3</a>, <a href="labs/lab3-soln.ipynb">Solns</a></td></tr>
+<tr><td width="50px">4/9</td><td width="100px"><a href="lectures/lecture3/lecture3.md">Lecture 3</a></td><td width="650px">Subset selection and ridge regression</td></tr>
+<tr><td width="50px">4/11</td><td width="100px"><a href="lectures/lecture4/lecture4slides.pdf">Lecture 4</a></td><td width="650px">Convex optimization, <a href="labs/lab2.ipynb">Lab 2</a>, <a href="labs/lab2-soln.ipynb">Solutions</a></td></tr>
+<tr><td width="50px">4/16</td><td width="100px"><a href="lectures/lecture5/lecture5.md">Lecture 5</a></td><td width="650px">The Lasso, <a href="labs/lab3.ipynb">Lab 3</a>, <a href="labs/lab3-soln.ipynb">Solns</a></td></tr>
 </table>
 
 <h4>Classification</h4>
@@ -57,9 +57,9 @@ Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cv
 Principles: Surrogate losses, generative and discriminative methods<br>
 Reading: ESL Chapter 4
 <table>
-<tr><td width="50px">4/20</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 6</a></td><td width="650px">Logistic regression</td></tr>
-<tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods, <a href="labs/lab4.ipynb">Lab 4</a></td></tr>
-<tr><td width="50px">4/27</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods</td></tr>
+<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 6</a></td><td width="650px">Logistic regression</td></tr>
+<tr><td width="50px">4/23</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods, <a href="labs/lab4.ipynb">Lab 4</a></td></tr>
+<tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods</td></tr>
 </table>
 
 <h4>Unsupervised Learning</h4>
@@ -67,8 +67,8 @@ Reading: ESL Chapter 4
 Principles: Compression, Dimension Reduction
 Reading: ESL Chapter 14
 <table>
-<tr><td width="50px">5/2</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 9</a></td><td width="650px"><a href="lectures/lecture9-10/lecture9notes.pdf">Clustering (notes)</a></td></tr>
-<tr><td width="50px">5/4</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 10</a></td><td width="650px"><a href="lectures/lecture9-10/lecture10notes.pdf">Dimension Reduction (notes)</a></td></tr>
+<tr><td width="50px">4/30</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 9</a></td><td width="650px"><a href="lectures/lecture9-10/lecture9notes.pdf">Clustering (notes)</a></td></tr>
+<tr><td width="50px">5/2</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 10</a></td><td width="650px"><a href="lectures/lecture9-10/lecture10notes.pdf">Dimension Reduction (notes)</a></td></tr>
 </table>
 
 <h4>Basis Expansion and Kernels</h4>
@@ -76,8 +76,8 @@ Reading: ESL Chapter 14
 Principles: Feature extraction, the kernel trick, analysis/sythesis duality<br>
 Reading: ESL Chapter 5
 <table>
-<tr><td width="50px">5/9</td><td width="100px"><a href="lectures/lecture11-12/lecture11notes.pdf">Lecture 11</a></td><td width="650px"><a href="lectures/lecture11-12/lecture11notes.pdf">Basis expansion and hi-di embeddings</a></td></tr>
-<tr><td width="50px">5/11</td><td width="100px"><a href="lectures/lecture11-12/lecture12notes.pdf">Lecture 12</a></td><td width="650px">Kernels</td></tr>
+<tr><td width="50px">5/7</td><td width="100px"><a href="lectures/lecture11-12/lecture11notes.pdf">Lecture 11</a></td><td width="650px"><a href="lectures/lecture11-12/lecture11notes.pdf">Basis expansion and hi-di embeddings</a></td></tr>
+<tr><td width="50px">5/9</td><td width="100px"><a href="lectures/lecture11-12/lecture12notes.pdf">Lecture 12</a></td><td width="650px">Kernels</td></tr>
 </table>
 
 <h4>Resampling, Trees, and Aggregation</h4>
@@ -85,26 +85,26 @@ Reading: ESL Chapter 5
 Principles: Interpretable models, statistical complexity, learning from experts<br>
 Reading: ESL Chapters 7, 8
 <table>
-<tr><td width="50px">5/16</td><td width="105px"><a href="lectures/lecture13-14/lecture13notes.pdf">Lecture 13</a></td><td width="650px">Bootstrap and cross validation</td></tr>
-<tr><td width="50px">5/18</td><td width="105px"><a href="lectures/lecture13-14/lecture14notes.pdf">Lecture 14</a></td><td width="650px">Trees, generalized additive models</td></tr>
-<tr><td width="50px">5/23</td><td width="105px"><a href="lectures/lecture15-16/lecture15notes.pdf">Lecture 15</a></td><td width="650px">Boosting and Random Forests</td></tr>
+<tr><td width="50px">5/14</td><td width="105px"><a href="lectures/lecture13-14/lecture13notes.pdf">Lecture 13</a></td><td width="650px">Bootstrap and cross validation</td></tr>
+<tr><td width="50px">5/16</td><td width="105px"><a href="lectures/lecture13-14/lecture14notes.pdf">Lecture 14</a></td><td width="650px">Trees, generalized additive models</td></tr>
+<tr><td width="50px">5/21</td><td width="105px"><a href="lectures/lecture15-16/lecture15notes.pdf">Lecture 15</a></td><td width="650px">Boosting and Random Forests</td></tr>
 </table>
 
 <h4>Online Learning, Neural Networks, and Deep Learning</h4>
 
 Principles: multi-layer architectures, non-convex optimization, online algorithms
 <table>
-<tr><td width="50px">5/25</td><td width="100px"><a href="lectures/lecture15-16/lecture16notes.pdf">Lecture 16</a></td><td width="650px">Stochastic gradient and online learning</td></tr>
-<tr><td width="50px">5/30</td><td width="100px"><a href="lectures/lecture17-18/lecture17notes.pdf">Lecture 17</a></td><td width="650px">Neural Networks and Backpropogation</td></tr>
-<tr><td width="50px">6/1</td><td width="100px"><a href="lectures/lecture17-18/lecture18notes.pdf">Lecture 18</a></td><td width="650px">Theano with <a href="lectures/lecture17-18/">notebooks</a></td></tr>
+<tr><td width="50px">5/23</td><td width="100px"><a href="lectures/lecture15-16/lecture16notes.pdf">Lecture 16</a></td><td width="650px">Stochastic gradient and online learning</td></tr>
+<tr><td width="50px">5/28</td><td width="100px"><a href="lectures/lecture17-18/lecture17notes.pdf">Lecture 17</a></td><td width="650px">Neural Networks and Backpropogation</td></tr>
+<tr><td width="50px">5/30</td><td width="100px"><a href="lectures/lecture17-18/lecture18notes.pdf">Lecture 18</a></td><td width="650px">Theano with <a href="lectures/lecture17-18/">notebooks</a></td></tr>
 </table>
 
 <h4>Graphical Models</h4>
 
 Principles: Markov network, dynamical models
 <table>
-<tr><td width="50px">6/6</td><td width="100px">Lecture 19</td><td width="650px">Understanding dependence with graphical models</td></tr>
-<tr><td width="50px">6/8</td><td width="100px">Lecture 20</td><td width="650px">Hidden Markov models</td></tr>
+<tr><td width="50px">6/4</td><td width="100px">Lecture 19</td><td width="650px">Understanding dependence with graphical models</td></tr>
+<tr><td width="50px">6/6</td><td width="100px">Lecture 20</td><td width="650px">Hidden Markov models</td></tr>
 </table>
 
 
