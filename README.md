@@ -19,9 +19,9 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 <h2>Office Hours</h2>
 
-- Prof. James: 10-11 Tue, 10-11 Thu, 3-4 Fri (MSB 4017)
-- Liwei Wu: TBD
-- Siteng Hao: TBD
+- Prof. James: 10-11 Tue, 10-11 Thu, 3-4 Fri (MSB 4107)
+- Liwei Wu: 2-4 Wed (Stat TA room)
+- Siteng Hao: 10-12 Fri (Stat TA room)
 
 <h2>Textbooks</h2>
 
