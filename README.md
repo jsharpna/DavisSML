@@ -57,9 +57,9 @@ Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cv
 Principles: Surrogate losses, generative and discriminative methods<br>
 Reading: ESL Chapter 4
 <table>
-<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 6</a></td><td width="650px">Logistic regression<a href="labs/lab3.ipynb">Lab 3</a>, <a href="labs/lab3-soln.ipynb">Solns</a></td></tr>
-<tr><td width="50px">4/23</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods, <a href="labs/lab4.ipynb">Lab 4</a></td></tr>
-<tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods</td></tr>
+<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 6</a></td><td width="650px">Logistic regression, <a href="labs/lab3.ipynb">Lab 3</a>, <a href="labs/lab3-soln.ipynb">Solns</a></td></tr>
+<tr><td width="50px">4/23</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods</td></tr>
+<tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods, <a href="labs/lab4.ipynb">Lab 4</a></td></tr>
 </table>
 
 <h4>Unsupervised Learning</h4>
