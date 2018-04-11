@@ -19,9 +19,9 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 <h2>Office Hours</h2>
 
-- Prof. James: 10-11 Tue, 10-11 Thu, 3-4 Fri (MSB 4017)
-- Liwei Wu: TBD
-- Siteng Hao: TBD
+- Prof. James: 10-11 Tue, 10-11 Thu, 3-4 Fri (MSB 4107)
+- Liwei Wu: 2-4 Wed (Stat TA room)
+- Siteng Hao: 10-12 Fri (Stat TA room)
 
 <h2>Textbooks</h2>
 
@@ -49,7 +49,7 @@ Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cv
 <table>
 <tr><td width="50px">4/9</td><td width="100px"><a href="lectures/lecture3/lecture3.md">Lecture 3</a></td><td width="650px">Subset selection and ridge regression</td></tr>
 <tr><td width="50px">4/11</td><td width="100px"><a href="lectures/lecture4/lecture4slides.pdf">Lecture 4</a></td><td width="650px">Convex optimization, <a href="labs/lab2.ipynb">Lab 2</a>, <a href="labs/lab2-soln.ipynb">Solutions</a></td></tr>
-<tr><td width="50px">4/16</td><td width="100px"><a href="lectures/lecture5/lecture5.md">Lecture 5</a></td><td width="650px">The Lasso, <a href="labs/lab3.ipynb">Lab 3</a>, <a href="labs/lab3-soln.ipynb">Solns</a></td></tr>
+<tr><td width="50px">4/16</td><td width="100px"><a href="lectures/lecture5/lecture5.md">Lecture 5</a></td><td width="650px">The Lasso</td></tr>
 </table>
 
 <h4>Classification</h4>
@@ -57,9 +57,9 @@ Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cv
 Principles: Surrogate losses, generative and discriminative methods<br>
 Reading: ESL Chapter 4
 <table>
-<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 6</a></td><td width="650px">Logistic regression</td></tr>
-<tr><td width="50px">4/23</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods, <a href="labs/lab4.ipynb">Lab 4</a></td></tr>
-<tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods</td></tr>
+<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 6</a></td><td width="650px">Logistic regression, <a href="labs/lab3.ipynb">Lab 3</a>, <a href="labs/lab3-soln.ipynb">Solns</a></td></tr>
+<tr><td width="50px">4/23</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods</td></tr>
+<tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods, <a href="labs/lab4.ipynb">Lab 4</a></td></tr>
 </table>
 
 <h4>Unsupervised Learning</h4>
