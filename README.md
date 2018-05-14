@@ -94,8 +94,8 @@ Reading: ESL Chapters 7, 8
 Principes: online learning, stochastic optimization, collaborative filtering
 
 <table>
-<tr><td width="50px">5/21</td><td width="100px"><a href="lectures/lecture15-16/lecture16notes.pdf">Lecture 16</a></td><td width="650px">Stochastic gradient and online learning</td></tr>
-<tr><td width="50px">5/23</td><td width="105px">Lecture 15</td><td width="650px">Recommendation Systems</td></tr>
+<tr><td width="50px">5/21</td><td width="100px"><a href="lectures/lecture15-16/lecture16notes.pdf">Lecture 15</a></td><td width="650px">Stochastic gradient and online learning</td></tr>
+<tr><td width="50px">5/23</td><td width="105px">Lecture 16</td><td width="650px">Recommendation Systems</td></tr>
 </table>
 
 <h4>Neural Networks, and Deep Learning</h4>
