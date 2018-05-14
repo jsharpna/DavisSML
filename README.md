@@ -19,9 +19,9 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 <h2>Office Hours</h2>
 
-- Prof. James: 10-11 Tue, 10-11 Thu, 3-4 Fri (MSB 4017)
-- Liwei Wu: TBD
-- Siteng Hao: TBD
+- Prof. James: 10-11 Tue, 10-11 Thu, 3-4 Fri (MSB 4107)
+- Liwei Wu: 2-4 Wed (Stat TA room)
+- Siteng Hao: 10-12 Fri (Stat TA room)
 
 <h2>Textbooks</h2>
 
@@ -47,9 +47,10 @@ Reading: ESL Chapter 2
 Principles: Convex relaxation, computational intractability in subset selection<br>
 Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 <table>
-<tr><td width="50px">4/9</td><td width="100px"><a href="lectures/lecture3/lecture3.md">Lecture 3</a></td><td width="650px">Subset selection and ridge regression</td></tr>
-<tr><td width="50px">4/11</td><td width="100px"><a href="lectures/lecture4/lecture4slides.pdf">Lecture 4</a></td><td width="650px">Convex optimization, <a href="labs/lab2.ipynb">Lab 2</a>, <a href="labs/lab2-soln.ipynb">Solutions</a></td></tr>
-<tr><td width="50px">4/16</td><td width="100px"><a href="lectures/lecture5/lecture5.md">Lecture 5</a></td><td width="650px">The Lasso, <a href="labs/lab3.ipynb">Lab 3</a>, <a href="labs/lab3-soln.ipynb">Solns</a></td></tr>
+<tr><td width="50px">4/9</td><td width="100px"><a href="lectures/lecture3/lecture3slides.pdf">Lecture 3</a></td><td width="650px">OLS,  Matrix Decompositions, <a href="lectures/lecture3/Leave_one_out_CV.pdf">leave-1-out cross validation</a></td></tr>
+<tr><td width="50px">4/11</td><td width="100px"><a href="lectures/lecture4/lecture3slides.pdf">Lecture 4</a></td><td width="650px">Subset selection and ridge regression, <a href="labs/lab2.ipynb">Lab 2</a>, <a href="labs/lab2-soln.ipynb">Solutions</a></td></tr>
+<tr><td width="50px">4/16</td><td width="100px"><a href="lectures/lecture4/lecture4slides.pdf">Lecture 5</a></td><td width="650px">Convex optimization</td></tr>
+<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture5/lecture5.md">Lecture 6</a></td><td width="650px">The Lasso, Discussion on HW1</td></tr>
 </table>
 
 <h4>Classification</h4>
@@ -57,9 +58,9 @@ Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cv
 Principles: Surrogate losses, generative and discriminative methods<br>
 Reading: ESL Chapter 4
 <table>
-<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 6</a></td><td width="650px">Logistic regression</td></tr>
-<tr><td width="50px">4/23</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods, <a href="labs/lab4.ipynb">Lab 4</a></td></tr>
-<tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods</td></tr>
+<tr><td width="50px">4/23</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 7</a></td><td width="650px">Logistic regression</td></tr>
+<tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods, <a href="labs/lab3.ipynb">Lab 3</a>, <a href="labs/lab3-soln.ipynb">Solns</a></td></tr>
+<tr><td width="50px">4/30</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods</td></tr>
 </table>
 
 <h4>Unsupervised Learning</h4>
@@ -67,8 +68,8 @@ Reading: ESL Chapter 4
 Principles: Compression, Dimension Reduction
 Reading: ESL Chapter 14
 <table>
-<tr><td width="50px">4/30</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 9</a></td><td width="650px"><a href="lectures/lecture9-10/lecture9notes.pdf">Clustering (notes)</a></td></tr>
-<tr><td width="50px">5/2</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 10</a></td><td width="650px"><a href="lectures/lecture9-10/lecture10notes.pdf">Dimension Reduction (notes)</a></td></tr>
+<tr><td width="50px">5/2</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 9</a></td><td width="650px"><a href="lectures/lecture9-10/lecture9notes.pdf">Clustering (notes)</a></td></tr>
+<tr><td width="50px">5/7</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 10</a></td><td width="650px"><a href="lectures/lecture9-10/lecture10notes.pdf">Dimension Reduction, <a href="labs/lab4.ipynb">Lab 4</a></a></td></tr>
 </table>
 
 <h4>Basis Expansion and Kernels</h4>
@@ -76,8 +77,8 @@ Reading: ESL Chapter 14
 Principles: Feature extraction, the kernel trick, analysis/sythesis duality<br>
 Reading: ESL Chapter 5
 <table>
-<tr><td width="50px">5/7</td><td width="100px"><a href="lectures/lecture11-12/lecture11notes.pdf">Lecture 11</a></td><td width="650px"><a href="lectures/lecture11-12/lecture11notes.pdf">Basis expansion and hi-di embeddings</a></td></tr>
-<tr><td width="50px">5/9</td><td width="100px"><a href="lectures/lecture11-12/lecture12notes.pdf">Lecture 12</a></td><td width="650px">Kernels</td></tr>
+<tr><td width="50px">5/9</td><td width="100px"><a href="lectures/lecture11-12/lecture11notes.pdf">Lecture 11</a></td><td width="650px"><a href="lectures/lecture11-12/lecture11notes.pdf">Basis expansion and hi-di embeddings</a></td></tr>
+<tr><td width="50px">5/14</td><td width="100px"><a href="lectures/lecture11-12/lecture12notes.pdf">Lecture 12</a></td><td width="650px">Kernels</td></tr>
 </table>
 
 <h4>Resampling, Trees, and Aggregation</h4>
@@ -109,8 +110,8 @@ Principles: multi-layer architectures
 
 Principles: Markov network, dynamical models
 <table>
-<tr><td width="50px">6/4</td><td width="100px">Lecture 19</td><td width="650px">Understanding dependence with graphical models</td></tr>
-<tr><td width="50px">6/6</td><td width="100px">Lecture 20</td><td width="650px">Hidden Markov models</td></tr>
+<tr><td width="50px">6/6</td><td width="100px">Lecture 19</td><td width="650px">Understanding dependence with graphical models</td></tr>
+<tr><td width="50px">6/6?</td><td width="100px">Lecture 20</td><td width="650px">Hidden Markov models</td></tr>
 </table>
 
 
