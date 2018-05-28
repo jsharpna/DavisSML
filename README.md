@@ -96,14 +96,13 @@ Principes: online learning, stochastic optimization, neural networks basics
 <table>
 <tr><td width="50px">5/21</td><td width="100px"><a href="lectures/lecture15-16/lecture16notes.pdf">Lecture 16</a></td><td width="650px">Stochastic gradient and online learning</td></tr>
 <tr><td width="50px">5/23</td><td width="100px">Lecture 17</td><td width="650px">Gradient boosting</td></tr>
-<tr><td width="50px">5/28</td><td width="100px"><a href="lectures/lecture17-18/lecture17notes.pdf">Lecture 18</a></td><td width="650px">Neural Networks</td></tr>
+<tr><td width="50px">5/30</td><td width="100px"><a href="lectures/lecture17-18/lecture17notes.pdf">Lecture 18</a></td><td width="650px">Neural Networks</td></tr>
 </table>
 
 <h4>Miscellanea</h4>
 <table>
-<tr><td width="50px">5/30</td><td width="105px">Lecture 19</td><td width="650px">Networks and Manifold Learning</td></tr>
-<tr><td width="50px">6/4</td><td width="105px">Lecture 21</td><td width="650px">Convolutional Nets</td></tr>
-<tr><td width="50px">6/6</td><td width="105px">Lecture 20</td><td width="650px">Recommendation Systems</td></tr>
+<tr><td width="50px">6/4</td><td width="105px">Lecture 19</td><td width="650px">Networks and Manifold Learning</td></tr>
+<tr><td width="50px">6/6</td><td width="105px">Lecture 21</td><td width="650px">Convolutional Nets</td></tr>
 </table>
 
 
