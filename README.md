@@ -1,6 +1,9 @@
 UC Davis Statistics 208 : Statistical Machine Learning
 ==============================
 
+Lecture Notes
+--------------
+
 A Course on the Principles of Statistical Machine Learning with Examples in Python
 -----------------------------
 
