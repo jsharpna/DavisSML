@@ -1,9 +1,6 @@
 UC Davis Statistics 208 : Statistical Machine Learning
 ==============================
 
-Lecture Notes
---------------
-
 A Course on the Principles of Statistical Machine Learning with Examples in Python
 -----------------------------
 
@@ -11,32 +8,11 @@ Machine learning is how to get computers to automatically learn and improve with
 
 We will focus on principles of statistical machine learning in the prediction problems, regression and classification.  Conspicuously absent is most Bayesian methodology and advanced concepts such as reinforcement learning.  This course is not a broad overview of all of machine learning, but rather a tour of the key ideas in machine learning as told through these prediction tasks.  Typically, I have students tell me something along the lines of "I thought machine learning was about [insert random methodology here]".  Machine learning is a field, like physical chemistry or creative literature.  It is not defined by a couple of methods or a single task, and cannot be taught in a single quarter.  With that said, I want this course to lay the foundation for a rich understanding of machine learning.
 
-<h2>Instructions</h2>
 
-1. Class time will be for lectures and labs.  These will be posted in advance in their sections.  Labs are not graded, and you will have an opportunity to go over your results in class.
-1. Homework will be due every week or so, starting with the second week. (50% of grade)
-1. Discussions and questions should be posted on the [slack site](http://ucdavis.slack.com): find the channel `2018-sta208`
-1. During the quarter, I will try to check my email at the end of the day on weekdays: `prof.jsharpna@gmail.com` 
-1. A final project will be due at the end of the class.  [Instructions can be found here.](misc/final_proj.md)  (50% of grade)
-1. You will need to install Python and the necessary packages to participate in this class.  See [the following instructions](misc/install.md) for installation notes.
+Lecture Notes
+--------------
 
-<h2>Office Hours</h2>
-
-- Prof. James: 10-11 Tue, 10-11 Thu, 3-4 Fri (MSB 4107)
-- Liwei Wu: 2-4 Wed (Stat TA room)
-- Siteng Hao: 10-12 Fri (Stat TA room)
-
-<h2>Textbooks</h2>
-
-- Required: <a href="https://statweb.stanford.edu/~tibs/ElemStatLearn/">Elements of Statistical Learning</a> by Hastie, Tibshirani, and Friedman
-- Recommended: <a href="http://www.springer.com/us/book/9783319307152">Python for Probability, Statistics, and Machine Learning</a> by Unpingco
-- Recommended: <a href="http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf">Convex Optimization by Boyd and Vandenberghe</a>
-
-<h2>Homeworks</h2>
-
-<h2>Syllabus</h2>
-
-<h4>Introduction to Machine Learning</h4>
+**Introduction to Machine Learning**
 
 Principles: Over/under-fitting, training and testing, losses<br>
 Reading: ESL Chapter 2
