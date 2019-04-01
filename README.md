@@ -10,9 +10,9 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 **Instructions:** The lectures will mostly be jupyter notebooks.  To follow along with the slides use the following command in the lecture folder.
 
-'''
+```
 jupyter nbconvert lecture[# here].ipynb --to slides --post serve
-'''
+```
 
 
 Lecture Notes
