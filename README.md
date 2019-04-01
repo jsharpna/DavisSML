@@ -17,8 +17,8 @@ Lecture Notes
 Principles: Over/under-fitting, training and testing, losses<br>
 Reading: ESL Chapter 2
 <table>
-<tr><td width="50px">4/2</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
-<tr><td width="50px">4/4</td><td width="100px"><a href="lectures/lecture2/lecture2.md">Lecture 2</a></td><td width="650px">Introduction to machine learning and Python II, <a href="labs/lab1.ipynb">Lab 1</a></td></tr>
+<tr><td width="50px">4/1</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
+<tr><td width="50px">4/3</td><td width="100px"><a href="lectures/lecture2/lecture2.md">Lecture 2</a></td><td width="650px">Introduction to machine learning and Python II, <a href="labs/lab1.ipynb">Lab 1</a></td></tr>
 </table>
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
