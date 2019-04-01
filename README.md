@@ -8,6 +8,12 @@ Machine learning is how to get computers to automatically learn and improve with
 
 We will focus on principles of statistical machine learning in the prediction problems, regression and classification.  Conspicuously absent is most Bayesian methodology and advanced concepts such as reinforcement learning.  This course is not a broad overview of all of machine learning, but rather a tour of the key ideas in machine learning as told through these prediction tasks.  Typically, I have students tell me something along the lines of "I thought machine learning was about [insert random methodology here]".  Machine learning is a field, like physical chemistry or creative literature.  It is not defined by a couple of methods or a single task, and cannot be taught in a single quarter.  With that said, I want this course to lay the foundation for a rich understanding of machine learning.
 
+**Instructions:** The lectures will mostly be jupyter notebooks.  To follow along with the slides use the following command in the lecture folder.
+
+```
+jupyter nbconvert lecture[# here].ipynb --to slides --post serve
+```
+
 
 Lecture Notes
 --------------
@@ -17,8 +23,8 @@ Lecture Notes
 Principles: Over/under-fitting, training and testing, losses<br>
 Reading: ESL Chapter 2
 <table>
-<tr><td width="50px">4/2</td><td width="100px"><a href="lectures/lecture1/lecture1.md">Lecture 1</a></td><td width="650px">Introduction to machine learning and Python I</td></tr>
-<tr><td width="50px">4/4</td><td width="100px"><a href="lectures/lecture2/lecture2.md">Lecture 2</a></td><td width="650px">Introduction to machine learning and Python II, <a href="labs/lab1.ipynb">Lab 1</a></td></tr>
+<tr><td width="50px">4/1</td><td width="100px"><a href="lectures/lecture1/">Lecture 1</a></td><td width="650px">Introduction to machine learning</td></tr>
+<tr><td width="50px">4/3</td><td width="100px"><a href="lectures/lecture2/">Lecture 2</a></td><td width="650px">Model selection and evaluation</td></tr>
 </table>
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
