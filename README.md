@@ -20,11 +20,11 @@ Lecture Notes
 
 **Introduction to Machine Learning**
 
-Principles: Over/under-fitting, training and testing, losses<br>
+Principles: Over/under-fitting, training and testing, losses, OLS and KNN<br>
 Reading: ESL Chapter 2
 <table>
-<tr><td width="50px">4/1</td><td width="100px"><a href="lectures/lecture1/">Lecture 1</a></td><td width="650px">Introduction to machine learning</td></tr>
-<tr><td width="50px">4/3</td><td width="100px"><a href="lectures/lecture2/">Lecture 2</a></td><td width="650px">Model selection and evaluation</td></tr>
+<tr><td width="50px">4/1</td><td width="100px"><a href="lectures/lecture1/lecture1.ipynb">Lecture 1</a></td><td width="650px">Introduction to machine learning</td></tr>
+<tr><td width="50px">4/3</td><td width="100px"><a href="lectures/lecture2/lecture2.ipynb">Lecture 2</a></td><td width="650px">Model selection and bias-variance tradeoff</td></tr>
 </table>
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
@@ -32,10 +32,9 @@ Reading: ESL Chapter 2
 Principles: Convex relaxation, computational intractability in subset selection<br>
 Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 <table>
-<tr><td width="50px">4/9</td><td width="100px"><a href="lectures/lecture3/lecture3slides.pdf">Lecture 3</a></td><td width="650px">OLS,  Matrix Decompositions, <a href="lectures/lecture3/Leave_one_out_CV.pdf">leave-1-out cross validation</a></td></tr>
-<tr><td width="50px">4/11</td><td width="100px"><a href="lectures/lecture4/lecture3slides.pdf">Lecture 4</a></td><td width="650px">Subset selection and ridge regression, <a href="labs/lab2.ipynb">Lab 2</a>, <a href="labs/lab2-soln.ipynb">Solutions</a></td></tr>
-<tr><td width="50px">4/16</td><td width="100px"><a href="lectures/lecture4/lecture4slides.pdf">Lecture 5</a></td><td width="650px">Convex optimization</td></tr>
-<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture5/lecture5.md">Lecture 6</a></td><td width="650px">The Lasso, Discussion on HW1</td></tr>
+<tr><td width="50px">4/8</td><td width="100px"><a href="lectures/lecture3/lecture3.ipynb">Lecture 3</a></td><td width="650px">OLS,  Matrix Decompositions, Subset selection and ridge regression</td></tr>
+<tr><td width="50px">4/10</td><td width="100px"><a href="lectures/lecture4/lecture4.ipynb">Lecture 4</a></td><td width="650px">Convex optimization</td></tr>
+<tr><td width="50px">4/17</td><td width="100px"><a href="lectures/lecture5/lecture5.ipynb">Lecture 5</a></td><td width="650px">The Lasso</td></tr>
 </table>
 
 <h4>Classification</h4>
