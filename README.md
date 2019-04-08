@@ -20,11 +20,11 @@ Lecture Notes
 
 **Introduction to Machine Learning**
 
-Principles: Over/under-fitting, training and testing, losses<br>
+Principles: Over/under-fitting, training and testing, losses, OLS and KNN<br>
 Reading: ESL Chapter 2
 <table>
-<tr><td width="50px">4/1</td><td width="100px"><a href="lectures/lecture1/">Lecture 1</a></td><td width="650px">Introduction to machine learning</td></tr>
-<tr><td width="50px">4/3</td><td width="100px"><a href="lectures/lecture2/">Lecture 2</a></td><td width="650px">Model selection and evaluation</td></tr>
+<tr><td width="50px">4/1</td><td width="100px"><a href="lectures/lecture1/lecture1.ipynb">Lecture 1</a></td><td width="650px">Introduction to machine learning</td></tr>
+<tr><td width="50px">4/3</td><td width="100px"><a href="lectures/lecture2/lecture2.ipynb">Lecture 2</a></td><td width="650px">Model selection and bias-variance tradeoff</td></tr>
 </table>
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
@@ -32,10 +32,9 @@ Reading: ESL Chapter 2
 Principles: Convex relaxation, computational intractability in subset selection<br>
 Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 <table>
-<tr><td width="50px">4/9</td><td width="100px"><a href="lectures/lecture3/lecture3slides.pdf">Lecture 3</a></td><td width="650px">OLS,  Matrix Decompositions, <a href="lectures/lecture3/Leave_one_out_CV.pdf">leave-1-out cross validation</a></td></tr>
-<tr><td width="50px">4/11</td><td width="100px"><a href="lectures/lecture4/lecture3slides.pdf">Lecture 4</a></td><td width="650px">Subset selection and ridge regression, <a href="labs/lab2.ipynb">Lab 2</a>, <a href="labs/lab2-soln.ipynb">Solutions</a></td></tr>
-<tr><td width="50px">4/16</td><td width="100px"><a href="lectures/lecture4/lecture4slides.pdf">Lecture 5</a></td><td width="650px">Convex optimization</td></tr>
-<tr><td width="50px">4/18</td><td width="100px"><a href="lectures/lecture5/lecture5.md">Lecture 6</a></td><td width="650px">The Lasso, Discussion on HW1</td></tr>
+<tr><td width="50px">4/8</td><td width="100px">Lecture 3</td><td width="650px">OLS,  Matrix Decompositions, Subset selection and ridge regression</td></tr>
+<tr><td width="50px">4/10</td><td width="100px">Lecture 4</td><td width="650px">Convex optimization, first order methods</td></tr>
+<tr><td width="50px">4/15</td><td width="100px">Lecture 5</td><td width="650px">The Lasso</td></tr>
 </table>
 
 <h4>Classification</h4>
@@ -43,98 +42,36 @@ Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cv
 Principles: Surrogate losses, generative and discriminative methods<br>
 Reading: ESL Chapter 4
 <table>
-<tr><td width="50px">4/23</td><td width="100px"><a href="lectures/lecture6/lecture6slides.pdf">Lecture 7</a></td><td width="650px">Logistic regression</td></tr>
-<tr><td width="50px">4/25</td><td width="100px"><a href="lectures/lecture7/lecture7slides.pdf">Lecture 7</a></td><td width="650px">Classification and Generative Methods, <a href="labs/lab3.ipynb">Lab 3</a>, <a href="labs/lab3-soln.ipynb">Solns</a></td></tr>
-<tr><td width="50px">4/30</td><td width="100px"><a href="lectures/lecture8/lecture8slides.pdf">Lecture 8</a></td><td width="650px">Max-margin Methods</td></tr>
+<tr><td width="50px">4/17</td><td width="100px">Lecture 6</td><td width="650px">Generative methods, naive Bayes, discriminant analysis, ROC, PR</td></tr>
+<tr><td width="50px">4/22</td><td width="100px">Lecture 7</td><td width="650px">Logistic regression, support vector machines, surrogate losses</td></tr>
+<tr><td width="50px">4/24</td><td width="100px">Lecture 8</td><td width="650px">Online learning, stochastic gradient descent, perceptron</td></tr>
 </table>
 
 <h4>Unsupervised Learning</h4>
 
-Principles: Compression, Dimension Reduction
+Principles: HMMs, Clustering, Dimension Reduction
 Reading: ESL Chapter 14
-<table>
-<tr><td width="50px">5/2</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 9</a></td><td width="650px"><a href="lectures/lecture9-10/lecture9notes.pdf">Clustering (notes)</a></td></tr>
-<tr><td width="50px">5/7</td><td width="100px"><a href="lectures/lecture9-10/README.md">Lecture 10</a></td><td width="650px"><a href="lectures/lecture9-10/lecture10notes.pdf">Dimension Reduction, <a href="labs/lab4.ipynb">Lab 4</a></a></td></tr>
+<table>    
+<tr><td width="50px">4/29</td><td width="100px">Lecture 9</td><td width="650px">Clustering</td></tr>
+<tr><td width="50px">5/1</td><td width="100px">Lecture 10</td><td width="650px">Dimension Reduction</td></tr>
+<tr><td width="50px">5/6</td><td width="100px">Lecture 11</td><td width="650px">Hidden Markov Models</td></tr>
 </table>
 
-<h4>Basis Expansion and Kernels</h4>
+<h4>Non-linear methods</h4>
 
-Principles: Feature extraction, the kernel trick, analysis/sythesis duality<br>
-Reading: ESL Chapter 5
+Principles: basis expansion, kernel trick, bagging, boosting, neural nets<br>
+Reading: ESL Chapter 5, 7, 8
 <table>
-<tr><td width="50px">5/9</td><td width="100px"><a href="lectures/lecture11-12/lecture11notes.pdf">Lecture 11</a></td><td width="650px"><a href="lectures/lecture11-12/lecture11notes.pdf">Basis expansion and hi-di embeddings</a></td></tr>
-<tr><td width="50px">5/14</td><td width="100px"><a href="lectures/lecture11-12/lecture12notes.pdf">Lecture 12</a></td><td width="650px">Kernels</td></tr>
+<tr><td width="50px">5/8</td><td width="100px">Lecture 12</td><td width="650px">Basis expansion and kernel trick</td></tr>
+<tr><td width="50px">5/13</td><td width="105px">Lecture 13</td><td width="650px">Bootstrap, Decision Trees, and Random Forests</td></tr>
+<tr><td width="50px">5/15</td><td width="105px">Lecture 14</td><td width="650px">Boosting</td></tr>
+<tr><td width="50px">5/20</td><td width="100px">Lecture 15</td><td width="650px">Neural Networks</td></tr>
 </table>
 
-<h4>Resampling, Trees, and Aggregation</h4>
-
-Principles: Interpretable models, statistical complexity, learning from experts<br>
-Reading: ESL Chapters 7, 8
+<h4>Deep Learning</h4>
 <table>
-<tr><td width="50px">5/14</td><td width="105px"><a href="lectures/lecture13-14/lecture14notes.pdf">Lecture 13</a></td><td width="650px">Bootstrap, Decision Trees, and Random Forests</td></tr>
-<tr><td width="50px">5/16</td><td width="105px"><a href="lectures/lecture13-14/lecture15notes.pdf">Lecture 14</a></td><td width="650px">Boosting</td></tr>
+<tr><td width="50px">5/22</td><td width="105px">Lecture 16</td><td width="650px">Deep learning</td></tr>
+<tr><td width="50px">5/29</td><td width="105px">Lecture 17</td><td width="650px">Convolutional nets</td></tr>
+<tr><td width="50px">6/3</td><td width="105px">Lecture 18</td><td width="650px">Recurrent neural nets</td></tr>
+<tr><td width="50px">6/5</td><td width="105px">Lecture 19</td><td width="650px">Generative adversarial networks</td></tr>
 </table>
-
-<h4>Stochastic Optimization, Neural Networks</h4>
-Principes: online learning, stochastic optimization, neural networks basics
-
-<table>
-<tr><td width="50px">5/21</td><td width="100px"><a href="lectures/lecture15-16/lecture16notes.pdf">Lecture 16</a></td><td width="650px">Stochastic gradient and online learning</td></tr>
-<tr><td width="50px">5/23</td><td width="100px">Lecture 17</td><td width="650px">Gradient boosting</td></tr>
-<tr><td width="50px">5/30</td><td width="100px"><a href="lectures/lecture17-18/lecture17notes.pdf">Lecture 18</a></td><td width="650px">Neural Networks</td></tr>
-</table>
-
-<h4>Miscellanea</h4>
-<table>
-<tr><td width="50px">6/4</td><td width="105px">Lecture 19</td><td width="650px">Networks and Manifold Learning</td></tr>
-<tr><td width="50px">6/6</td><td width="105px">Lecture 21</td><td width="650px">Convolutional Nets</td></tr>
-</table>
-
-
-
-Repository Organization
-------------
-
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── labs               <- notebook files for course labs (6 labs)
-    │
-    ├── homeworks          <- notebook files for homeworks (6 hws)
-    │
-    ├── lectures           <- notebook files for lectures (naming convention 
-    │
-    ├── references         <- Reference material, pdfs, etc.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
-
-
---------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
