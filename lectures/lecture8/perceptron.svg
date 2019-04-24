@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#C1272D;stroke:#C1272D;stroke-miterlimit:10;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:26px;}
+	.st4{fill:#0000FF;}
+	.st5{fill:none;stroke:#0000FF;stroke-miterlimit:10;}
+	.st6{fill:#FF0000;}
+	.st7{fill:none;stroke:#0000FF;stroke-miterlimit:10;stroke-dasharray:11.9757,11.9757;}
+</style>
+<g>
+	<line class="st0" x1="276.5" y1="50.5" x2="279.5" y2="718"/>
+</g>
+<line class="st0" x1="787" y1="467.5" x2="70" y2="469.5"/>
+<line class="st1" x1="101.5" y1="84.5" x2="788.5" y2="528.5"/>
+<line class="st0" x1="454.5" y1="547.5" x2="454.5" y2="548.5"/>
+<text transform="matrix(1 0 0 1 105 70)" class="st2 st3">s(x) = 0</text>
+<g>
+	<line class="st4" x1="406.5" y1="281.5" x2="278" y2="468"/>
+	<g>
+		<line class="st5" x1="403.1" y1="286.5" x2="278" y2="468"/>
+		<g>
+			<path class="st4" d="M406.5,281.5c-2.5,1.7-6,3.6-8.8,4.3l4.9,1.3l2.9,4.1C405.2,288.4,405.8,284.4,406.5,281.5z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 407 320)" class="st2 st3">β</text>
+<text transform="matrix(1 0 0 1 554 257)" class="st2 st3">1</text>
+<text transform="matrix(1 0 0 1 390 89)" class="st6 st2 st3">-1</text>
+<text transform="matrix(1 0 0 1 392 411)" class="st2 st3">-1</text>
+<g>
+	<line class="st4" x1="278" y1="468" x2="399" y2="98"/>
+	<g>
+		<line class="st5" x1="278" y1="468" x2="279.9" y2="462.3"/>
+		<line class="st7" x1="283.6" y1="450.9" x2="393.4" y2="115.1"/>
+		<line class="st5" x1="395.3" y1="109.4" x2="397.1" y2="103.7"/>
+		<g>
+			<path class="st4" d="M399,98c0.1,3,0.7,6.9,1.9,9.6l-4-3.1l-5.1,0.2C394.3,103.2,397.1,100.4,399,98z"/>
+		</g>
+	</g>
+</g>
+</svg>
