@@ -50,7 +50,7 @@ Reading: ESL Chapter 4
 <h4>Unsupervised Learning</h4>
 
 Principles: HMMs, Clustering, Dimension Reduction
-Reading: ESL Chapter 14
+Reading: ESL Chapter 14, ["An Introduction to Hidden Markov Models and Bayesian Networks"](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf), Zoubin Ghahramani
 <table>    
 <tr><td width="50px">4/29</td><td width="100px">Lecture 9</td><td width="650px">Clustering</td></tr>
 <tr><td width="50px">5/1</td><td width="100px">Lecture 10</td><td width="650px">Dimension Reduction</td></tr>
