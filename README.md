@@ -70,8 +70,8 @@ Reading: ESL Chapter 5, 7, 8
 
 <h4>Deep Learning</h4>
 <table>
-<tr><td width="50px">5/22</td><td width="105px">Lecture 16</td><td width="650px">Deep learning</td></tr>
-<tr><td width="50px">5/29</td><td width="105px">Lecture 17</td><td width="650px">Convolutional nets</td></tr>
-<tr><td width="50px">6/3</td><td width="105px">Lecture 18</td><td width="650px">Recurrent neural nets</td></tr>
-<tr><td width="50px">6/5</td><td width="105px">Lecture 19</td><td width="650px">Generative adversarial networks</td></tr>
+<tr><td width="50px">5/22</td><td width="105px">Lecture 16</td><td width="650px">Convolutional nets</td></tr>
+<tr><td width="50px">5/29</td><td width="105px">Lecture 17</td><td width="650px">Recurrent neural nets</td></tr>
+<tr><td width="50px">6/3</td><td width="105px">Lecture 18</td><td width="650px">Tensorflow 1</td></tr>
+<tr><td width="50px">6/5</td><td width="105px">Lecture 19</td><td width="650px">Tensorflow 2</td></tr>
 </table>
