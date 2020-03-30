@@ -13,17 +13,17 @@ We will focus on principles of statistical machine learning in the prediction pr
 ```
 jupyter nbconvert lecture[# here].ipynb --to slides --post serve
 ```
-
+Due to Covid-19, I have recorded all of my lectures and am uploading them to Youtube.  They will be linked as they become available, and will be organized into playlists which correspond to a single lecture (between 1-2 hrs of content).  I have structured the lecture so that there are exercises that you can do on your own as you listen to the lecture.  Most of the exercises are at the end of a video and will be answered at the beginning of the next, but sometimes I will ask you to pause the video.  After I ask the question you should take the time to complete the exercise, then go on to hear the answer.
 
 Lecture Notes
 --------------
 
 **Introduction to Machine Learning**
 
-Principles: Over/under-fitting, training and testing, losses, OLS and KNN<br>
+Principles: Bias-Variance, training and testing, losses, OLS and KNN<br>
 Reading: ESL Chapter 2
 <table>
-<tr><td width="50px">4/1</td><td width="100px"><a href="lectures/lecture1/lecture1.ipynb">Lecture 1</a></td><td width="650px">Introduction to machine learning</td></tr>
+<tr><td width="50px">4/1</td><td width="100px"><a href="lectures/lecture1/lecture1.ipynb">Lecture 1</a>-<a href="">Youtube</a></td><td width="650px">Introduction to machine learning</td></tr>
 <tr><td width="50px">4/3</td><td width="100px"><a href="lectures/lecture2/lecture2.ipynb">Lecture 2</a></td><td width="650px">Model selection and bias-variance tradeoff</td></tr>
 </table>
 
