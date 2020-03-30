@@ -13,18 +13,18 @@ We will focus on principles of statistical machine learning in the prediction pr
 ```
 jupyter nbconvert lecture[# here].ipynb --to slides --post serve
 ```
-
+Due to Covid-19, I have recorded all of my lectures and am uploading them to Youtube.  They will be linked as they become available, and will be organized into playlists which correspond to a single lecture (between 1-2 hrs of content).  I have structured the lecture so that there are exercises that you can do on your own as you listen to the lecture.  Most of the exercises are at the end of a video and will be answered at the beginning of the next, but sometimes I will ask you to pause the video.  After I ask the question you should take the time to complete the exercise, then go on to hear the answer.
 
 Lecture Notes
 --------------
 
 **Introduction to Machine Learning**
 
-Principles: Over/under-fitting, training and testing, losses, OLS and KNN<br>
+Principles: Bias-Variance, training and testing, losses, OLS and KNN<br>
 Reading: ESL Chapter 2
 <table>
-<tr><td width="50px">4/1</td><td width="100px"><a href="lectures/lecture1/lecture1.ipynb">Lecture 1</a></td><td width="650px">Introduction to machine learning</td></tr>
-<tr><td width="50px">4/3</td><td width="100px"><a href="lectures/lecture2/lecture2.ipynb">Lecture 2</a></td><td width="650px">Model selection and bias-variance tradeoff</td></tr>
+<tr><td width="100px">Lecture 1</td><td width="100px"><a href="lectures/lecture1/lecture1.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2ljcIu-iGRRhAOS1ZTVbJYv">Videos</a></td><td width="650px">Introduction to machine learning</td></tr>
+<tr><td width="100px">Lecture 2</td><td width="100px"><a href="lectures/lecture2/lecture2.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2kr1NhjZSjAviUxl71Hq9x1">Videos</td><td width="650px">Model selection and bias-variance tradeoff</td></tr>
 </table>
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
@@ -32,9 +32,9 @@ Reading: ESL Chapter 2
 Principles: Convex relaxation, computational intractability in subset selection<br>
 Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 <table>
-<tr><td width="50px">4/8</td><td width="100px">Lecture 3</td><td width="650px">OLS,  Matrix Decompositions, Subset selection and ridge regression</td></tr>
-<tr><td width="50px">4/10</td><td width="100px">Lecture 4</td><td width="650px">Convex optimization, first order methods</td></tr>
-<tr><td width="50px">4/15</td><td width="100px">Lecture 5</td><td width="650px">The Lasso</td></tr>
+<tr><td width="100px">Lecture 3</td><td width="100px">Notebook-Videos</td><td width="650px">OLS,  Matrix Decompositions, Subset selection and ridge regression</td></tr>
+<tr><td width="100px">Lecture 4</td><td width="100px">Notebook-Videos</td><td width="650px">Convex optimization, first order methods</td></tr>
+<tr><td width="100px">Lecture 5</td><td width="100px">Notebook-Videos</td><td width="650px">The Lasso</td></tr>
 </table>
 
 <h4>Classification</h4>
@@ -47,7 +47,7 @@ Reading: ESL Chapter 4
 <tr><td width="50px">4/24</td><td width="100px">Lecture 8</td><td width="650px">Online learning, stochastic gradient descent, perceptron</td></tr>
 </table>
 
-<h4>Unsupervised Learning</h4>
+<h4>Unsupervised Learning and HMMs</h4>
 
 Principles: HMMs, Clustering, Dimension Reduction
 Reading: ESL Chapter 14, ["An Introduction to Hidden Markov Models and Bayesian Networks"](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf), Zoubin Ghahramani
@@ -70,8 +70,8 @@ Reading: ESL Chapter 5, 7, 8
 
 <h4>Deep Learning</h4>
 <table>
-<tr><td width="50px">5/22</td><td width="105px">Lecture 16</td><td width="650px">Deep learning</td></tr>
-<tr><td width="50px">5/29</td><td width="105px">Lecture 17</td><td width="650px">Convolutional nets</td></tr>
-<tr><td width="50px">6/3</td><td width="105px">Lecture 18</td><td width="650px">Recurrent neural nets</td></tr>
-<tr><td width="50px">6/5</td><td width="105px">Lecture 19</td><td width="650px">Generative adversarial networks</td></tr>
+<tr><td width="50px">5/22</td><td width="105px">Lecture 16</td><td width="650px">Convolutional nets</td></tr>
+<tr><td width="50px">5/29</td><td width="105px">Lecture 17</td><td width="650px">Recurrent neural nets</td></tr>
+<tr><td width="50px">6/3</td><td width="105px">Lecture 18</td><td width="650px">Tensorflow 1</td></tr>
+<tr><td width="50px">6/5</td><td width="105px">Lecture 19</td><td width="650px">Tensorflow 2</td></tr>
 </table>
