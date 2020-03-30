@@ -24,7 +24,7 @@ Principles: Bias-Variance, training and testing, losses, OLS and KNN<br>
 Reading: ESL Chapter 2
 <table>
 <tr><td width="100px">Lecture 1</td><td width="100px"><a href="lectures/lecture1/lecture1.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2ljcIu-iGRRhAOS1ZTVbJYv">Videos</a></td><td width="650px">Introduction to machine learning</td></tr>
-<tr><td width="100px">Lecture 2</td><td width="100px"><a href="lectures/lecture2/lecture2.ipynb">Notebook</a>-<a href="">Videos</td><td width="650px">Model selection and bias-variance tradeoff</td></tr>
+<tr><td width="100px">Lecture 2</td><td width="100px"><a href="lectures/lecture2/lecture2.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2kr1NhjZSjAviUxl71Hq9x1">Videos</td><td width="650px">Model selection and bias-variance tradeoff</td></tr>
 </table>
 
 <h4>Regression (beyond Ordinary Least Squares)</h4>
@@ -32,9 +32,9 @@ Reading: ESL Chapter 2
 Principles: Convex relaxation, computational intractability in subset selection<br>
 Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 <table>
-<tr><td width="50px">4/8</td><td width="100px">Lecture 3</td><td width="650px">OLS,  Matrix Decompositions, Subset selection and ridge regression</td></tr>
-<tr><td width="50px">4/10</td><td width="100px">Lecture 4</td><td width="650px">Convex optimization, first order methods</td></tr>
-<tr><td width="50px">4/15</td><td width="100px">Lecture 5</td><td width="650px">The Lasso</td></tr>
+<tr><td width="100px">Lecture 3</td><td width="100px">Notebook-Videos</td><td width="650px">OLS,  Matrix Decompositions, Subset selection and ridge regression</td></tr>
+<tr><td width="100px">Lecture 4</td><td width="100px">Notebook-Videos</td><td width="650px">Convex optimization, first order methods</td></tr>
+<tr><td width="100px">Lecture 5</td><td width="100px">Notebook-Videos</td><td width="650px">The Lasso</td></tr>
 </table>
 
 <h4>Classification</h4>
