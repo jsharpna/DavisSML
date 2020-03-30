@@ -47,7 +47,7 @@ Reading: ESL Chapter 4
 <tr><td width="50px">4/24</td><td width="100px">Lecture 8</td><td width="650px">Online learning, stochastic gradient descent, perceptron</td></tr>
 </table>
 
-<h4>Unsupervised Learning</h4>
+<h4>Unsupervised Learning and HMMs</h4>
 
 Principles: HMMs, Clustering, Dimension Reduction
 Reading: ESL Chapter 14, ["An Introduction to Hidden Markov Models and Bayesian Networks"](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf), Zoubin Ghahramani
