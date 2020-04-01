@@ -32,8 +32,8 @@ Reading: ESL Chapter 2
 Principles: Convex relaxation, computational intractability in subset selection<br>
 Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 <table>
-<tr><td width="100px">Lecture 3</td><td width="100px">Notebook-Videos</td><td width="650px">OLS,  Matrix Decompositions, Subset selection and ridge regression</td></tr>
-<tr><td width="100px">Lecture 4</td><td width="100px">Notebook-Videos</td><td width="650px">Convex optimization, first order methods</td></tr>
+<tr><td width="100px">Lecture 3</td><td width="100px"><a href="lectures/lecture3/lecture3.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2mxrYqh5VbBMY-Llgj_TgjA">Videos</a></td><td width="650px">OLS,  Matrix Decompositions, Subset selection and ridge regression</td></tr>
+<tr><td width="100px">Lecture 4</td><td width="100px"><a href="lectures/lecture3/lecture4.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2nXzWdFGnX0ca6EL-ri-ne2">Videos</a></td><td width="650px">Convex optimization, first order methods</td></tr>
 <tr><td width="100px">Lecture 5</td><td width="100px">Notebook-Videos</td><td width="650px">The Lasso</td></tr>
 </table>
 
@@ -42,9 +42,9 @@ Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cv
 Principles: Surrogate losses, generative and discriminative methods<br>
 Reading: ESL Chapter 4
 <table>
-<tr><td width="50px">4/17</td><td width="100px">Lecture 6</td><td width="650px">Generative methods, naive Bayes, discriminant analysis, ROC, PR</td></tr>
-<tr><td width="50px">4/22</td><td width="100px">Lecture 7</td><td width="650px">Logistic regression, support vector machines, surrogate losses</td></tr>
-<tr><td width="50px">4/24</td><td width="100px">Lecture 8</td><td width="650px">Online learning, stochastic gradient descent, perceptron</td></tr>
+<tr><td width="100px">Lecture 6</td><td width="100px">Notebook-Videos</td><td width="650px">Generative methods, naive Bayes, discriminant analysis, ROC, PR</td></tr>
+<tr><td width="100px">Lecture 7</td><td width="100px">Notebook-Videos</td><td width="650px">Logistic regression, support vector machines, surrogate losses</td></tr>
+<tr><td width="100px">Lecture 8</td><td width="100px">Notebook-Videos</td><td width="650px">Online learning, stochastic gradient descent, perceptron</td></tr>
 </table>
 
 <h4>Unsupervised Learning and HMMs</h4>
@@ -52,9 +52,9 @@ Reading: ESL Chapter 4
 Principles: HMMs, Clustering, Dimension Reduction
 Reading: ESL Chapter 14, ["An Introduction to Hidden Markov Models and Bayesian Networks"](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf), Zoubin Ghahramani
 <table>    
-<tr><td width="50px">4/29</td><td width="100px">Lecture 9</td><td width="650px">Clustering</td></tr>
-<tr><td width="50px">5/1</td><td width="100px">Lecture 10</td><td width="650px">Dimension Reduction</td></tr>
-<tr><td width="50px">5/6</td><td width="100px">Lecture 11</td><td width="650px">Hidden Markov Models</td></tr>
+<tr><td width="100px">Lecture 9</td><td width="100px">Notebook-Videos</td><td width="650px">Clustering</td></tr>
+<tr><td width="100px">Lecture 10</td><td width="100px">Notebook-Videos</td><td width="650px">Dimension Reduction</td></tr>
+<tr><td width="100px">Lecture 11</td><td width="100px">Notebook-Videos</td><td width="650px">Hidden Markov Models</td></tr>
 </table>
 
 <h4>Non-linear methods</h4>
@@ -62,16 +62,16 @@ Reading: ESL Chapter 14, ["An Introduction to Hidden Markov Models and Bayesian 
 Principles: basis expansion, kernel trick, bagging, boosting, neural nets<br>
 Reading: ESL Chapter 5, 7, 8
 <table>
-<tr><td width="50px">5/8</td><td width="100px">Lecture 12</td><td width="650px">Basis expansion and kernel trick</td></tr>
-<tr><td width="50px">5/13</td><td width="105px">Lecture 13</td><td width="650px">Bootstrap, Decision Trees, and Random Forests</td></tr>
-<tr><td width="50px">5/15</td><td width="105px">Lecture 14</td><td width="650px">Boosting</td></tr>
-<tr><td width="50px">5/20</td><td width="100px">Lecture 15</td><td width="650px">Neural Networks</td></tr>
+<tr><td width="100px">Lecture 12</td><td width="100px">Notebook-Videos</td><td width="650px">Basis expansion and kernel trick</td></tr>
+<tr><td width="100px">Lecture 13</td><td width="100px">Notebook-Videos</td><td width="650px">Bootstrap, Decision Trees, and Random Forests</td></tr>
+<tr><td width="100px">Lecture 14</td><td width="100px">Notebook-Videos</td><td width="650px">Boosting</td></tr>
+<tr><td width="100px">Lecture 15</td><td width="100px">Notebook-Videos</td><td width="650px">Neural Networks</td></tr>
 </table>
 
 <h4>Deep Learning</h4>
 <table>
-<tr><td width="50px">5/22</td><td width="105px">Lecture 16</td><td width="650px">Convolutional nets</td></tr>
-<tr><td width="50px">5/29</td><td width="105px">Lecture 17</td><td width="650px">Recurrent neural nets</td></tr>
-<tr><td width="50px">6/3</td><td width="105px">Lecture 18</td><td width="650px">Tensorflow 1</td></tr>
-<tr><td width="50px">6/5</td><td width="105px">Lecture 19</td><td width="650px">Tensorflow 2</td></tr>
+<tr><td width="100px">Lecture 16</td><td width="100px">Notebook-Videos</td><td width="650px">Convolutional nets</td></tr>
+<tr><td width="100px">Lecture 17</td><td width="100px">Notebook-Videos</td><td width="650px">Recurrent neural nets</td></tr>
+<tr><td width="100px">Lecture 18</td><td width="100px">Notebook-Videos</td><td width="650px">Tensorflow 1</td></tr>
+<tr><td width="100px">Lecture 19</td><td width="100px">Notebook-Videos</td><td width="650px">Tensorflow 2</td></tr>
 </table>
