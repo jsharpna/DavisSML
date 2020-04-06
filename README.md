@@ -23,6 +23,7 @@ Lecture Notes
 Principles: Bias-Variance, training and testing, losses, OLS and KNN<br>
 Reading: ESL Chapter 2
 <table>
+<tr><td width="100px">Setup</td><td width="100px"><a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2nHEvSg5BmQlZdYej-i_xEl">Videos</a></td><td width="650px">Data science workflow installations, first project repository</td></tr>
 <tr><td width="100px">Lecture 1</td><td width="100px"><a href="lectures/lecture1/lecture1.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2ljcIu-iGRRhAOS1ZTVbJYv">Videos</a></td><td width="650px">Introduction to machine learning</td></tr>
 <tr><td width="100px">Lecture 2</td><td width="100px"><a href="lectures/lecture2/lecture2.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2kr1NhjZSjAviUxl71Hq9x1">Videos</td><td width="650px">Model selection and bias-variance tradeoff</td></tr>
 </table>
