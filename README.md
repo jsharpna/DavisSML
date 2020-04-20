@@ -73,6 +73,4 @@ Reading: ESL Chapter 5, 7, 8
 <table>
 <tr><td width="100px">Lecture 16</td><td width="100px">Notebook-Videos</td><td width="650px">Convolutional nets</td></tr>
 <tr><td width="100px">Lecture 17</td><td width="100px">Notebook-Videos</td><td width="650px">Recurrent neural nets</td></tr>
-<tr><td width="100px">Lecture 18</td><td width="100px">Notebook-Videos</td><td width="650px">Tensorflow 1</td></tr>
-<tr><td width="100px">Lecture 19</td><td width="100px">Notebook-Videos</td><td width="650px">Tensorflow 2</td></tr>
 </table>
