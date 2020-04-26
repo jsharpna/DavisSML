@@ -43,8 +43,8 @@ Reading: ESL Chapter 3, [Boyd Chapter 1](http://stanford.edu/~boyd/cvxbook/bv_cv
 Principles: Surrogate losses, generative and discriminative methods<br>
 Reading: ESL Chapter 4
 <table>
-<tr><td width="100px">Lecture 6</td><td width="100px">Notebook-Videos</td><td width="650px">Generative methods, naive Bayes, discriminant analysis, ROC, PR</td></tr>
-<tr><td width="100px">Lecture 7</td><td width="100px">Notebook-Videos</td><td width="650px">Logistic regression, support vector machines, surrogate losses</td></tr>
+  <tr><td width="100px">Lecture 6</td><td width="100px"><a href="lectures/lecture6/lecture6.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2lCidu4JOqSAO6f0XAH_9Bz">Videos</a></td><td width="650px">Generative methods, naive Bayes, discriminant analysis, ROC, PR</td></tr>
+  <tr><td width="100px">Lecture 7</td><td width="100px"><a href="lectures/lecture7/lecture7.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2kZ5sz162zPbh8tP9VePI8l">Videos</a></td><td width="650px">Logistic regression, support vector machines, surrogate losses</td></tr>
 <tr><td width="100px">Lecture 8</td><td width="100px">Notebook-Videos</td><td width="650px">Online learning, stochastic gradient descent, perceptron</td></tr>
 </table>
 
@@ -73,6 +73,4 @@ Reading: ESL Chapter 5, 7, 8
 <table>
 <tr><td width="100px">Lecture 16</td><td width="100px">Notebook-Videos</td><td width="650px">Convolutional nets</td></tr>
 <tr><td width="100px">Lecture 17</td><td width="100px">Notebook-Videos</td><td width="650px">Recurrent neural nets</td></tr>
-<tr><td width="100px">Lecture 18</td><td width="100px">Notebook-Videos</td><td width="650px">Tensorflow 1</td></tr>
-<tr><td width="100px">Lecture 19</td><td width="100px">Notebook-Videos</td><td width="650px">Tensorflow 2</td></tr>
 </table>
