@@ -46,6 +46,7 @@ Reading: ESL Chapter 4
   <tr><td width="100px">Lecture 6</td><td width="100px"><a href="lectures/lecture6/lecture6.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2lCidu4JOqSAO6f0XAH_9Bz">Videos</a></td><td width="650px">Generative methods, naive Bayes, discriminant analysis, ROC, PR</td></tr>
   <tr><td width="100px">Lecture 7</td><td width="100px"><a href="lectures/lecture7/lecture7.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2kZ5sz162zPbh8tP9VePI8l">Videos</a></td><td width="650px">Logistic regression, support vector machines, surrogate losses</td></tr>
   <tr><td width="100px">Lecture 8</td><td width="100px"><a href="lectures/lecture8/lecture8.ipynb">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2lvODCMDZgM8CIUq8QVu6BP">Videos</a></td><td width="650px">Online learning, stochastic gradient descent, perceptron</td></tr>
+  <tr><td width="100px">Lecture 9</td><td width="100px"><a href="lectures/lecture9">Notebooks</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2k-DLD1iHqDrrdQOfeY6JWW">Videos</a></td><td width="650px">Multiclass classification, tensorflow</td></tr>
 </table>
 
 <h4>Unsupervised Learning and HMMs</h4>
@@ -53,9 +54,7 @@ Reading: ESL Chapter 4
 Principles: HMMs, Clustering, Dimension Reduction
 Reading: ESL Chapter 14, ["An Introduction to Hidden Markov Models and Bayesian Networks"](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf), Zoubin Ghahramani
 <table>    
-<tr><td width="100px">Lecture 9</td><td width="100px">Notebook-Videos</td><td width="650px">Clustering</td></tr>
-<tr><td width="100px">Lecture 10</td><td width="100px">Notebook-Videos</td><td width="650px">Dimension Reduction</td></tr>
-<tr><td width="100px">Lecture 11</td><td width="100px">Notebook-Videos</td><td width="650px">Hidden Markov Models</td></tr>
+<tr><td width="100px">Lecture 10</td><td width="100px">Notebook-Videos</td><td width="650px">Clustering, Dimension Reduction</td></tr>
 </table>
 
 <h4>Non-linear methods</h4>
@@ -63,14 +62,14 @@ Reading: ESL Chapter 14, ["An Introduction to Hidden Markov Models and Bayesian 
 Principles: basis expansion, kernel trick, bagging, boosting, neural nets<br>
 Reading: ESL Chapter 5, 7, 8
 <table>
-<tr><td width="100px">Lecture 12</td><td width="100px">Notebook-Videos</td><td width="650px">Basis expansion and kernel trick</td></tr>
-<tr><td width="100px">Lecture 13</td><td width="100px">Notebook-Videos</td><td width="650px">Bootstrap, Decision Trees, and Random Forests</td></tr>
-<tr><td width="100px">Lecture 14</td><td width="100px">Notebook-Videos</td><td width="650px">Boosting</td></tr>
-<tr><td width="100px">Lecture 15</td><td width="100px">Notebook-Videos</td><td width="650px">Neural Networks</td></tr>
+<tr><td width="100px">Lecture 11</td><td width="100px">Notebook-Videos</td><td width="650px">Basis expansion and kernel trick</td></tr>
+<tr><td width="100px">Lecture 12</td><td width="100px">Notebook-Videos</td><td width="650px">Bootstrap, Decision Trees, and Random Forests</td></tr>
+<tr><td width="100px">Lecture 13</td><td width="100px">Notebook-Videos</td><td width="650px">Boosting</td></tr>
+<tr><td width="100px">Lecture 14</td><td width="100px">Notebook-Videos</td><td width="650px">Neural Networks</td></tr>
 </table>
 
 <h4>Deep Learning</h4>
 <table>
-<tr><td width="100px">Lecture 16</td><td width="100px">Notebook-Videos</td><td width="650px">Convolutional nets</td></tr>
-<tr><td width="100px">Lecture 17</td><td width="100px">Notebook-Videos</td><td width="650px">Recurrent neural nets</td></tr>
+<tr><td width="100px">Lecture 15</td><td width="100px">Notebook-Videos</td><td width="650px">Convolutional nets</td></tr>
+<tr><td width="100px">Lecture 16</td><td width="100px">Notebook-Videos</td><td width="650px">Recurrent neural nets</td></tr>
 </table>
