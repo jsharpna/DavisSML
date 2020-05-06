@@ -54,7 +54,7 @@ Reading: ESL Chapter 4
 Principles: HMMs, Clustering, Dimension Reduction
 Reading: ESL Chapter 14, ["An Introduction to Hidden Markov Models and Bayesian Networks"](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf), Zoubin Ghahramani
 <table>    
-<tr><td width="100px">Lecture 10</td><td width="100px">Notebook-Videos</td><td width="650px">Clustering, Dimension Reduction</td></tr>
+<tr><td width="100px">Lecture 10</td><td width="100px"><a href="lectures/lecture10">Notebooks</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2nMagsm9HQUV4892CBRWzrl">Videos</a></td><td width="650px">Clustering, Dimension Reduction</td></tr>
 </table>
 
 <h4>Non-linear methods</h4>
