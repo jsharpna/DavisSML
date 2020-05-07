@@ -51,10 +51,10 @@ Reading: ESL Chapter 4
 
 <h4>Unsupervised Learning and HMMs</h4>
 
-Principles: HMMs, Clustering, Dimension Reduction
-Reading: ESL Chapter 14, ["An Introduction to Hidden Markov Models and Bayesian Networks"](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf), Zoubin Ghahramani
+Principles: HMMs, Clustering, Dimension Reduction<br>
+Reading: ESL Chapter 14
 <table>    
-<tr><td width="100px">Lecture 10</td><td width="100px">Notebook-Videos</td><td width="650px">Clustering, Dimension Reduction</td></tr>
+<tr><td width="100px">Lecture 10</td><td width="100px"><a href="lectures/lecture10">Notebooks</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2nMagsm9HQUV4892CBRWzrl">Videos</a></td><td width="650px">Clustering, Dimension Reduction</td></tr>
 </table>
 
 <h4>Non-linear methods</h4>
@@ -63,13 +63,12 @@ Principles: basis expansion, kernel trick, bagging, boosting, neural nets<br>
 Reading: ESL Chapter 5, 7, 8
 <table>
 <tr><td width="100px">Lecture 11</td><td width="100px">Notebook-Videos</td><td width="650px">Basis expansion and kernel trick</td></tr>
-<tr><td width="100px">Lecture 12</td><td width="100px">Notebook-Videos</td><td width="650px">Bootstrap, Decision Trees, and Random Forests</td></tr>
-<tr><td width="100px">Lecture 13</td><td width="100px">Notebook-Videos</td><td width="650px">Boosting</td></tr>
-<tr><td width="100px">Lecture 14</td><td width="100px">Notebook-Videos</td><td width="650px">Neural Networks</td></tr>
+<tr><td width="100px">Lecture 12</td><td width="100px">Notebook-Videos</td><td width="650px">Neural Networks</td></tr>
+<tr><td width="100px">Lecture 13</td><td width="100px">Notebook-Videos</td><td width="650px">Bagging and Boosting</td></tr>
 </table>
 
 <h4>Deep Learning</h4>
 <table>
-<tr><td width="100px">Lecture 15</td><td width="100px">Notebook-Videos</td><td width="650px">Convolutional nets</td></tr>
-<tr><td width="100px">Lecture 16</td><td width="100px">Notebook-Videos</td><td width="650px">Recurrent neural nets</td></tr>
+<tr><td width="100px">Lecture 14</td><td width="100px">Notebook-Videos</td><td width="650px">Convolutional nets</td></tr>
+<tr><td width="100px">Lecture 15</td><td width="100px">Notebook-Videos</td><td width="650px">Recurrent neural nets</td></tr>
 </table>
