@@ -63,7 +63,7 @@ Principles: basis expansion, kernel trick, bagging, boosting, neural nets<br>
 Reading: ESL Chapter 5, 7, 8
 <table>
   <tr><td width="100px">Lecture 11</td><td width="100px"><a href="lectures/lecture11">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2mw4JisiMK43h43ENuhHW0I">Videos</a></td><td width="650px">Basis expansion and kernel trick</td></tr>
-<tr><td width="100px">Lecture 12</td><td width="100px">Notebook-Videos</td><td width="650px">Neural Networks</td></tr>
+  <tr><td width="100px">Lecture 12</td><td width="100px"><a href="lectures/lecture12">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2koBaYh5JVDgXmzKhR8CWeu">Videos</a></td><td width="650px">Neural Networks</td></tr>
 <tr><td width="100px">Lecture 13</td><td width="100px">Notebook-Videos</td><td width="650px">Bagging and Boosting</td></tr>
 </table>
 
