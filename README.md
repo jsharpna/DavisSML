@@ -69,6 +69,6 @@ Reading: ESL Chapter 5, 7, 8
 
 <h4>Deep Learning</h4>
 <table>
-<tr><td width="100px">Lecture 14</td><td width="100px">Notebook-Videos</td><td width="650px">Convolutional nets</td></tr>
+  <tr><td width="100px">Lecture 14</td><td width="100px"><a href="lectures/lecture14">Notebook</a>-<a href="https://www.youtube.com/playlist?list=PLCTcZfebNw2lNFJLSbkEWpW2gOYWhE8D1">Videos</a></td><td width="650px">Convolutional nets</td></tr>
 <tr><td width="100px">Lecture 15</td><td width="100px">Notebook-Videos</td><td width="650px">Recurrent neural nets</td></tr>
 </table>
